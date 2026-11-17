@@ -1,0 +1,31 @@
+{
+  "reference": "用户确认的三屏样稿.png",
+  "generationTool": "built-in image_gen",
+  "assets": [
+    {
+      "name": "pack",
+      "original": "pack-original.png",
+      "web": "pack.webp",
+      "sha256": "9536d2588503d085c2dc9404f2c07ec36a00186586c0453b895a5efbda50f923",
+      "generationFile": "exec-01af2f03-a694-457d-a992-b2c8a8573669.png",
+      "originalSha256": "9b99fed47cb5cc71d08c1a77af7685df4af96d9e7a2355ebb71ea0b47e45ec79"
+    },
+    {
+      "name": "path",
+      "original": "path-original.png",
+      "web": "path.webp",
+      "sha256": "74ce3ad46e3c07a91e5e0fe7a505b3446128d57730395bd42332e2e59e811c1f",
+      "generationFile": "exec-661ec92c-e401-48f1-9ff1-8193b686b02c.png",
+      "originalSha256": "61f1a4d147afd752ca0637a1190542af27daefbd4b2516e39a9c3c70bc3bc356"
+    },
+    {
+      "name": "duel",
+      "original": "duel-original.png",
+      "web": "duel.webp",
+      "sha256": "cb434f2fa62c143bd35988d1b4dd9dbc14b37ff6da766b54e40f076fb0da2ad1",
+      "generationFile": "exec-cfa0ec5d-8bab-437a-a9ca-f6dbfdbd939d.png",
+      "originalSha256": "11418a29db6bfedf444dbb6259d5546e81a247115fbd71bf02e4736ae1884bc6"
+    }
+  ],
+  "notes": "独立生成的2D兔子foil包、无字森林路径、友善树精/探险者，不把三屏设计稿当页面；主应用只内联webp资产。"
+}
