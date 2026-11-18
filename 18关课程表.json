@@ -1,0 +1,872 @@
+[
+  {
+    "unitId": "u1",
+    "unitTitle": "学校",
+    "type": 0,
+    "title": "单词森林",
+    "index": 0,
+    "requirements": [
+      {
+        "word": "book",
+        "meaning": "书，书本"
+      },
+      {
+        "word": "ruler",
+        "meaning": "尺子"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u1",
+    "unitTitle": "学校",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 1,
+    "requirements": [
+      {
+        "word": "I",
+        "meaning": "我"
+      },
+      {
+        "word": "have",
+        "meaning": "有"
+      },
+      {
+        "word": "a/an",
+        "meaning": "一( 个)"
+      },
+      {
+        "word": "book",
+        "meaning": "书，书本"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "I",
+          "have",
+          "a/an"
+        ],
+        "text": "I have a book.",
+        "pictures": [
+          "book"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "I",
+          "have",
+          "a/an"
+        ],
+        "text": "I have a ruler.",
+        "pictures": [
+          "ruler"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "I",
+          "have",
+          "a/an"
+        ],
+        "text": "I have a pencil.",
+        "pictures": [
+          "pencil"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u1",
+    "unitTitle": "学校",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 2,
+    "requirements": [
+      {
+        "word": "book",
+        "meaning": "书，书本"
+      },
+      {
+        "word": "ruler",
+        "meaning": "尺子"
+      },
+      {
+        "word": "pencil",
+        "meaning": "铅笔"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "book",
+          "ruler",
+          "pencil"
+        ],
+        "text": "I have a book. I have a ruler. This is my pencil.",
+        "pictures": [
+          "book",
+          "ruler",
+          "pencil"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "ruler",
+          "pencil",
+          "schoolbag"
+        ],
+        "text": "I have a ruler. I have a pencil. This is my schoolbag.",
+        "pictures": [
+          "ruler",
+          "pencil",
+          "schoolbag"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "pencil",
+          "schoolbag",
+          "book"
+        ],
+        "text": "I have a pencil. I have a schoolbag. This is my book.",
+        "pictures": [
+          "pencil",
+          "schoolbag",
+          "book"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u2",
+    "unitTitle": "脸部",
+    "type": 0,
+    "title": "单词森林",
+    "index": 3,
+    "requirements": [
+      {
+        "word": "face",
+        "meaning": "脸"
+      },
+      {
+        "word": "ear",
+        "meaning": "耳朵"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u2",
+    "unitTitle": "脸部",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 4,
+    "requirements": [
+      {
+        "word": "this",
+        "meaning": "这(个)"
+      },
+      {
+        "word": "is",
+        "meaning": "是"
+      },
+      {
+        "word": "my",
+        "meaning": "我的"
+      },
+      {
+        "word": "face",
+        "meaning": "脸"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "this",
+          "is",
+          "my"
+        ],
+        "text": "This is my face.",
+        "pictures": [
+          "face"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "this",
+          "is",
+          "my"
+        ],
+        "text": "This is my ear.",
+        "pictures": [
+          "ear"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "this",
+          "is",
+          "my"
+        ],
+        "text": "This is my eye.",
+        "pictures": [
+          "eye"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u2",
+    "unitTitle": "脸部",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 5,
+    "requirements": [
+      {
+        "word": "face",
+        "meaning": "脸"
+      },
+      {
+        "word": "ear",
+        "meaning": "耳朵"
+      },
+      {
+        "word": "eye",
+        "meaning": "眼睛"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "face",
+          "ear",
+          "eye"
+        ],
+        "text": "This is my face. This is my ear. And this is my eye.",
+        "pictures": [
+          "face",
+          "ear",
+          "eye"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "ear",
+          "eye",
+          "nose"
+        ],
+        "text": "This is my ear. This is my eye. And this is my nose.",
+        "pictures": [
+          "ear",
+          "eye",
+          "nose"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "eye",
+          "nose",
+          "mouth"
+        ],
+        "text": "This is my eye. This is my nose. And this is my mouth.",
+        "pictures": [
+          "eye",
+          "nose",
+          "mouth"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u3",
+    "unitTitle": "动物",
+    "type": 0,
+    "title": "单词森林",
+    "index": 6,
+    "requirements": [
+      {
+        "word": "dog",
+        "meaning": "狗"
+      },
+      {
+        "word": "bird",
+        "meaning": "鸟"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u3",
+    "unitTitle": "动物",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 7,
+    "requirements": [
+      {
+        "word": "what",
+        "meaning": "什么"
+      },
+      {
+        "word": "it",
+        "meaning": "它"
+      },
+      {
+        "word": "dog",
+        "meaning": "狗"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "what",
+          "dog"
+        ],
+        "text": "What is it? It is a dog.",
+        "pictures": [
+          "dog"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "it",
+          "bird"
+        ],
+        "text": "What is it? It is a bird.",
+        "pictures": [
+          "bird"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "what",
+          "it"
+        ],
+        "text": "What is it? It is a tiger.",
+        "pictures": [
+          "tiger"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u3",
+    "unitTitle": "动物",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 8,
+    "requirements": [
+      {
+        "word": "dog",
+        "meaning": "狗"
+      },
+      {
+        "word": "bird",
+        "meaning": "鸟"
+      },
+      {
+        "word": "tiger",
+        "meaning": "老虎"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "dog",
+          "bird",
+          "tiger"
+        ],
+        "text": "This is a dog. That is a bird. And this is a tiger. They are my friends.",
+        "pictures": [
+          "dog",
+          "bird",
+          "tiger"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "bird",
+          "tiger",
+          "monkey"
+        ],
+        "text": "This is a bird. That is a tiger. And this is a monkey. They are my friends.",
+        "pictures": [
+          "bird",
+          "tiger",
+          "monkey"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "tiger",
+          "monkey",
+          "cat"
+        ],
+        "text": "This is a tiger. That is a monkey. And this is a cat. They are my friends.",
+        "pictures": [
+          "tiger",
+          "monkey",
+          "cat"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u4",
+    "unitTitle": "数字",
+    "type": 0,
+    "title": "单词森林",
+    "index": 9,
+    "requirements": [
+      {
+        "word": "one",
+        "meaning": "一"
+      },
+      {
+        "word": "two",
+        "meaning": "二"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u4",
+    "unitTitle": "数字",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 10,
+    "requirements": [
+      {
+        "word": "how",
+        "meaning": "多少"
+      },
+      {
+        "word": "many",
+        "meaning": "多的，许多的"
+      },
+      {
+        "word": "are",
+        "meaning": "是"
+      },
+      {
+        "word": "there",
+        "meaning": "(代替主语)"
+      },
+      {
+        "word": "two",
+        "meaning": "二"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "how",
+          "many"
+        ],
+        "text": "How many are there?",
+        "pictures": [
+          "two"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "there",
+          "are",
+          "three"
+        ],
+        "text": "There are three.",
+        "pictures": [
+          "three"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "how",
+          "are",
+          "there"
+        ],
+        "text": "How many are there?",
+        "pictures": [
+          "four"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u4",
+    "unitTitle": "数字",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 11,
+    "requirements": [
+      {
+        "word": "one",
+        "meaning": "一"
+      },
+      {
+        "word": "two",
+        "meaning": "二"
+      },
+      {
+        "word": "three",
+        "meaning": "三"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "one",
+          "two",
+          "three"
+        ],
+        "text": "How many? There is one. There are two. And there are three.",
+        "pictures": [
+          "one",
+          "two",
+          "three"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "two",
+          "three",
+          "four"
+        ],
+        "text": "How many? There are two. There are three. And there are four.",
+        "pictures": [
+          "two",
+          "three",
+          "four"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "three",
+          "four",
+          "five"
+        ],
+        "text": "How many? There are three. There are four. And there are five.",
+        "pictures": [
+          "three",
+          "four",
+          "five"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u5",
+    "unitTitle": "颜色",
+    "type": 0,
+    "title": "单词森林",
+    "index": 12,
+    "requirements": [
+      {
+        "word": "black",
+        "meaning": "黑色；黑色的"
+      },
+      {
+        "word": "yellow",
+        "meaning": "黄色；黄色的"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u5",
+    "unitTitle": "颜色",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 13,
+    "requirements": [
+      {
+        "word": "black",
+        "meaning": "黑色；黑色的"
+      },
+      {
+        "word": "yellow",
+        "meaning": "黄色；黄色的"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "black",
+          "yellow"
+        ],
+        "text": "This is black. That is yellow.",
+        "pictures": [
+          "black",
+          "yellow"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "yellow",
+          "blue"
+        ],
+        "text": "This is yellow. That is blue.",
+        "pictures": [
+          "yellow",
+          "blue"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "blue",
+          "red"
+        ],
+        "text": "This is blue. That is red.",
+        "pictures": [
+          "blue",
+          "red"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u5",
+    "unitTitle": "颜色",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 14,
+    "requirements": [
+      {
+        "word": "black",
+        "meaning": "黑色；黑色的"
+      },
+      {
+        "word": "yellow",
+        "meaning": "黄色；黄色的"
+      },
+      {
+        "word": "blue",
+        "meaning": "蓝色；蓝色的"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "black",
+          "yellow",
+          "blue"
+        ],
+        "text": "This is black. That is yellow. And this is blue. I like them.",
+        "pictures": [
+          "black",
+          "yellow",
+          "blue"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "yellow",
+          "blue",
+          "red"
+        ],
+        "text": "This is yellow. That is blue. And this is red. I like them.",
+        "pictures": [
+          "yellow",
+          "blue",
+          "red"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "blue",
+          "red",
+          "green"
+        ],
+        "text": "This is blue. That is red. And this is green. I like them.",
+        "pictures": [
+          "blue",
+          "red",
+          "green"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u6",
+    "unitTitle": "水果",
+    "type": 0,
+    "title": "单词森林",
+    "index": 15,
+    "requirements": [
+      {
+        "word": "apple",
+        "meaning": "苹果"
+      },
+      {
+        "word": "pear",
+        "meaning": "梨"
+      }
+    ],
+    "samples": []
+  },
+  {
+    "unitId": "u6",
+    "unitTitle": "水果",
+    "type": 1,
+    "title": "句子树桥",
+    "index": 16,
+    "requirements": [
+      {
+        "word": "do",
+        "meaning": "(助动词)"
+      },
+      {
+        "word": "you",
+        "meaning": "你；你们"
+      },
+      {
+        "word": "like",
+        "meaning": "喜欢，喜爱"
+      },
+      {
+        "word": "yes",
+        "meaning": "是，是的"
+      },
+      {
+        "word": "no",
+        "meaning": "不，不是"
+      },
+      {
+        "word": "apple",
+        "meaning": "苹果"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "do",
+          "you",
+          "like"
+        ],
+        "text": "Do you like this apple?",
+        "pictures": [
+          "apple"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "yes",
+          "like"
+        ],
+        "text": "Yes, I like this pear.",
+        "pictures": [
+          "pear"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "no",
+          "like"
+        ],
+        "text": "No, I do not like this banana.",
+        "pictures": [
+          "banana"
+        ]
+      }
+    ]
+  },
+  {
+    "unitId": "u6",
+    "unitTitle": "水果",
+    "type": 2,
+    "title": "故事守卫",
+    "index": 17,
+    "requirements": [
+      {
+        "word": "apple",
+        "meaning": "苹果"
+      },
+      {
+        "word": "pear",
+        "meaning": "梨"
+      },
+      {
+        "word": "banana",
+        "meaning": "香蕉"
+      }
+    ],
+    "samples": [
+      {
+        "round": 1,
+        "targetWords": [
+          "apple",
+          "pear",
+          "banana"
+        ],
+        "text": "This is an apple. This is a pear. I like this banana.",
+        "pictures": [
+          "apple",
+          "pear",
+          "banana"
+        ]
+      },
+      {
+        "round": 2,
+        "targetWords": [
+          "pear",
+          "banana",
+          "orange"
+        ],
+        "text": "This is a pear. This is a banana. I like this orange.",
+        "pictures": [
+          "pear",
+          "banana",
+          "orange"
+        ]
+      },
+      {
+        "round": 3,
+        "targetWords": [
+          "banana",
+          "orange",
+          "apple"
+        ],
+        "text": "This is a banana. This is an orange. I like this apple.",
+        "pictures": [
+          "banana",
+          "orange",
+          "apple"
+        ]
+      }
+    ]
+  }
+]
