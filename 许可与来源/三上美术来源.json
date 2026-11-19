@@ -1,0 +1,812 @@
+{
+  "u1:name": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "f066646ba14cc8cb116ba9911daa238c44f6f179404cf1ae376c0a4bbff6cf07"
+  },
+  "u1:nice": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "f83fcce0fde3bd68e848c1186997ea4ca0ee215e35d85f313049ca33aefe6a85"
+  },
+  "u1:ear": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/ear.webp",
+    "sha256": "6e936c39924cebb4a3cd9092afebbfab439625ec58a2cabebeb2bb9fc3fdc25e"
+  },
+  "u1:hand": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/hand.webp",
+    "sha256": "012283b744544e01043e63dfe30e104f84105d7fb94a680e7114459fded19cd4"
+  },
+  "u1:eye": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/eye.webp",
+    "sha256": "60370b857d04c59686e5069d82e283f0e03cf815032c88b8de353d7937fa05c9"
+  },
+  "u1:mouth": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/mouth.webp",
+    "sha256": "ebb61b5e028be8851161dc8621beb95018dd7158d2468f9d3d4bd9e102eca2ca"
+  },
+  "u1:arm": {
+    "复用": "outputs/PEP二下森林卡绘/网页图/arm.webp",
+    "sha256": "7804ae7cda5d23bcfbbab4a0366ca28633a3a3a63e0c845610f8f73a4607edd6"
+  },
+  "u1:can": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "0bc93ca137041220b6b6e7d49ec2f1246d7b391ea699dace92397819e6bc1bbc"
+  },
+  "u1:share": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "4f5b5c20f9185bc934e02731c7a155cc46e90efdabed5a20633a34de2bd5461f"
+  },
+  "u1:smile": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "afde8516f3e82599c2014174cef6550cfa4feefc9b3c974c2c72764883e1a377"
+  },
+  "u1:listen": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/listen.webp",
+    "sha256": "db47fc77c9417ffff80c353bb69fbc53779a2eefdb8314d110ba1fb301b6169f"
+  },
+  "u1:help": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/help.webp",
+    "sha256": "2728bc4649f06aebd307ee9b160ee8602af165e9d5e3ba0f48e630e91e150ace"
+  },
+  "u1:say": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/say.webp",
+    "sha256": "6010a991b0c3dd4fb49230039bb6f21252d03305232964f3d63bd6c7b739c4da"
+  },
+  "u1:and": {
+    "原稿": "exec-1b342d65-60d9-4f37-b3c9-8c88e07fc52e.png",
+    "区域": [
+      2,
+      2,
+      722,
+      722
+    ],
+    "sha256": "183018cb2637d911c010c5b365d8249f4a840a25a30afa2a9b16c6e0ecb3b325"
+  },
+  "u1:goodbye": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/bye.webp",
+    "sha256": "ab054de1f69c4413733554412959218b51215250352e3a15f590505060e5359a"
+  },
+  "u1:toy": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/toy.webp",
+    "sha256": "0949b23cb57e02109c42dc01ea97feabccc021107f64a9320efea04ace8c1cc6"
+  },
+  "u1:friend": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "c328fb4a21d4d6346bc93484148972f952149bd4d5902d1fdc6c0e5b60757d06"
+  },
+  "u1:good": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "0ba84ebf87bec864bff763787f54e53bda931c8515a995eff239b3dfee7198b2"
+  },
+  "u2:mum": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/mum.webp",
+    "sha256": "e0b68daa7ac93e72d496631ff07871fdebf47e9e89de492b847cf6e022de9517"
+  },
+  "u2:dad": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/dad.webp",
+    "sha256": "52334e8a81bd510f680d51ca3c4fc71b1648b8166c2ff003f7f8c1f75edb6f8b"
+  },
+  "u2:grandma": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "9d50266ae6226b3de69b8f44c134411faeac49fbdbd538de568a0167940bdf92"
+  },
+  "u2:grandpa": {
+    "原稿": "exec-c843521a-2471-4cd4-965f-8cc6e39dd93f.png",
+    "区域": [
+      838,
+      838,
+      1252,
+      1252
+    ],
+    "sha256": "08b7ee1beb06397c98c47cc098f0c7d3e8db48d43c5dc913de6ae151331a6557"
+  },
+  "u2:grandfather": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      2,
+      514,
+      510,
+      1022
+    ],
+    "sha256": "caf500ff4b47d8a9ff9e595ab406658537026a993b83e250ce8f9caba4080e08"
+  },
+  "u2:grandmother": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      1026,
+      2,
+      1534,
+      510
+    ],
+    "sha256": "889cbd352f0885c79e6bf04ce5335a103d0a67445369e50fc5a021a99741a02f"
+  },
+  "u2:mother": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      514,
+      514,
+      1022,
+      1022
+    ],
+    "sha256": "e243652bb14ceb350657e7b14336e4236e6c8e3ae03b5dad5a26b7691b4624dc"
+  },
+  "u2:father": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      1026,
+      514,
+      1534,
+      1022
+    ],
+    "sha256": "129340220e7f7683a2c44ddf4b356f54d35975e29bfdcec5c210412b51fc8d9d"
+  },
+  "u2:me": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/I.webp",
+    "sha256": "c092ac9bab3d0073d238c3e0592a565dc2cd24958425bcff9116b29b1ec887ca"
+  },
+  "u2:sister": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/sister.webp",
+    "sha256": "c23af6f4b0e68cb67ee72944481a73b04173fcbe06f3dba3ab417396760a272a"
+  },
+  "u2:family": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "676c7911f2b420e96ddf37bff231307d927dbddad5cd6f9f7697cc59bc3179c7"
+  },
+  "u2:have": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/have.webp",
+    "sha256": "10a9c3ebd984f16f3dd6a5fefa68a3c158d6eec81e35163fb194c51cf9352186"
+  },
+  "u2:big": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/big.webp",
+    "sha256": "daf997d7f9c7da729a8a1badf63ab666555e26c2931c8ab056cc182ac3b12fa8"
+  },
+  "u2:cousin": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "fa99192cffbb5d180eaf5c6973e602d9dd5b571524d6226894eb1ed4d7cad46f"
+  },
+  "u2:brother": {
+    "复用": "outputs/PEP一上森林卡绘/网页图/brother.webp",
+    "sha256": "6a188de92f882317eba0bbe146964d5c8430b5d67446979ee18a20975765a04d"
+  },
+  "u2:baby": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "7ed2b4f23bd5ee63f1e3dda4831cfa727f0b746aa50f586bd2ea0938aec8e8f0"
+  },
+  "u2:uncle": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "221671d6645cae9c85f3fb02873863724d436db81400b3bfeb34425d76d75a55"
+  },
+  "u2:aunt": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "090caa7b3e78d2c99a5c96fe94ad9e608e39b561b4922040065b0bd6268a653f"
+  },
+  "u2:some": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "39a69e0f22d79fc0bcf832297abbf9127ac6a4245c037b0fc183c8f6e2a89fea"
+  },
+  "u2:small": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/small.webp",
+    "sha256": "1aef42db1e7e68eda32fc898d8deb635085db88ded3cd6eb29954b72448b5265"
+  },
+  "u3:like": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/like.webp",
+    "sha256": "39204dfa474ff3f0feac9e8c1f26be945cd085ef7aa621520e16d49e8ced4a8c"
+  },
+  "u3:dog": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/dog.webp",
+    "sha256": "aa0e60f041e7b4b4b6b92075bb4f77757e4d8fb274a2c4b2d366e4ffb6434bad"
+  },
+  "u3:pet": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "b3c49f9a696270ce2f60fd07e78954210aec29e4017b82a78fc70caeac78ed4b"
+  },
+  "u3:cat": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/cat.webp",
+    "sha256": "ba3c6485017afb9d644f1fc21f07f653f469328248572d243ce011ee9651d6a2"
+  },
+  "u3:fish": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/fish.webp",
+    "sha256": "53bbaa85c7c5fa2440582d3209118429a62c842c161b1c0fbedc47f356b4a60d"
+  },
+  "u3:bird": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/bird.webp",
+    "sha256": "c4922485a051b8f7edd97d15d151291305a58bbb6688ccfc862219cd83ea2b85"
+  },
+  "u3:rabbit": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/rabbit.webp",
+    "sha256": "1aa115f6fc80cd771af9387019040b8016c3424d9f12110b1fc4f1286856bb9d"
+  },
+  "u3:go": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "fa86aa27fc44b9eacb5a4a0bb83fc35f5411bbc88225d3efbb87640c5571415c"
+  },
+  "u3:zoo": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "e48f471d45d364877f823257cfc5f449132372d36099437ee2dc64331e5a719c"
+  },
+  "u3:fox": {
+    "原稿": "exec-6ea78e84-5815-4b5b-a41b-bcc6eee8532d.png",
+    "区域": [
+      838,
+      838,
+      1252,
+      1252
+    ],
+    "sha256": "e7bd9bd040e63a56aedc073796ce03ea752180087dbeae08f934e3ad12ed7066"
+  },
+  "u3:Miss": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/Miss.webp",
+    "sha256": "f72bca71bebc7aef949e72a1b5b5ee4201c20aa54aafe722425d05cdbcb46bb5"
+  },
+  "u3:panda": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "4cefb10479f05b9fb2c895d158e1df5c9c64248c61577580216412dd5326cfc5"
+  },
+  "u3:red panda": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "9d602df955c478783775ca4e50a3130a8d7e62294001ce5847f6c92ed4d3ced4"
+  },
+  "u3:cute": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "f65d391cfc67484e9f64dd484d93ff8a38f8d629866ce47222eebdd748a8a770"
+  },
+  "u3:monkey": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/monkey.webp",
+    "sha256": "016d265aba1994c17d05103a997b068ca7bead0af6320ece4e828ffe314dacac"
+  },
+  "u3:tiger": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/tiger.webp",
+    "sha256": "504363bb1efa23d6bbce876a7d3feffa0906f2e49dfa7e07299dd221ba97627b"
+  },
+  "u3:elephant": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "32e5cd93ed7f8e09784741ce58095dab4a59c1d5bc06ef65c720aa0add8e3974"
+  },
+  "u3:lion": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "336377325889264d2860418e74785716b55500587e63218ac545d254170c4b9c"
+  },
+  "u3:animal": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "b0614d3312f8e72d4dee25ca5e2c71bf858b506e5ab9cae3cfdfb10e6086d62b"
+  },
+  "u3:giraffe": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "d55b26880f3f8c435fdf1bfa8bbc9e9a5b2b0ad89ae5908c1dcc26769a73af31"
+  },
+  "u3:tall": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "58b40a48dc9da98cefc98bde9c1f77f5415f87a253319d579a241a79072d27be"
+  },
+  "u3:fast": {
+    "原稿": "exec-7821ffa2-0e3c-413a-b9ef-d0665c46bc6f.png",
+    "区域": [
+      838,
+      838,
+      1252,
+      1252
+    ],
+    "sha256": "4a01fb043a976a8f1f183c3c3eccbabdc374e5916ceffa1b9b078f81ca796d78"
+  },
+  "u4:apple": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/apple.webp",
+    "sha256": "555978196dd55b0e08d9ef21313b2ea39accd2ea7405f2c98bc48f04fb746b08"
+  },
+  "u4:banana": {
+    "复用": "outputs/PEP一下森林卡绘/网页图/banana.webp",
+    "sha256": "42a989b4dccf720ceadab4fc865b6de4548812e174f3123ab002498a4d5cdff7"
+  },
+  "u4:farm": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "35c5a3630662f9a18722990ddb4aa69f708dcc8514c02d0e04b4b374444c32ba"
+  },
+  "u4:air": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "3841e809714ec96851ca34c074bfe53e050acbbda323d67b27607f8a2e763ba7"
+  },
+  "u4:orange": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/orange.webp",
+    "sha256": "a1dcd7e60a608e9f29bab547698eee7f0b2b933acaf32f4a590f53083fba317c"
+  },
+  "u4:grape": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "cc006aaff11f84c2fe701d8fc6dfcb3c86c8015db68e6cef8f03a405ba283c8f"
+  },
+  "u4:school": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "26149f0a4f08c755828bf7a59ee4e19f1c030f32da7cf51b86d04c8fe9dc3800"
+  },
+  "u4:garden": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "50283c7bc21feb7e95ad9fa446c78ad77154c12e7c5d0ecfaff32093ad5cc068"
+  },
+  "u4:need": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "16b72701b8bc86151796fff055261e7e7c821cf298b13b060c258b55c9d52854"
+  },
+  "u4:water": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "3af6f247155e996ff89fd09b41a9af089579bbe6107c0360975a52d25914f25a"
+  },
+  "u4:flower": {
+    "复用": "outputs/PEP二下森林卡绘/网页图/flower.webp",
+    "sha256": "183eb54475ca03f30bc079526821bcc70ac58290717687d6840b92bdf73e7acb"
+  },
+  "u4:grass": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "ab4cf63a90a54dc68e7dbd975c95f8149e1c4c18977f7693fc935eafb3fec6a4"
+  },
+  "u4:plant": {
+    "原稿": "exec-577a7b6f-b783-4f5c-8af8-3c5e47a53230.png",
+    "区域": [
+      838,
+      838,
+      1252,
+      1252
+    ],
+    "sha256": "4a1e019bf69e374ac28b7bd1ae87c9ab5facb2c2fa22fbed70bb8c1a35d6f9ac"
+  },
+  "u4:new": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "927bc8a65a1d95d76c4c253866535f5057023d9cb82cbf8e50d25d39bb92b713"
+  },
+  "u4:tree": {
+    "复用": "outputs/PEP二下森林卡绘/网页图/tree.webp",
+    "sha256": "30d7aa67ceaebc838f56780689e6f3ab10ab52f65c8cc928cfc6b0ba74fcd0e3"
+  },
+  "u4:sun": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      420,
+      2,
+      834,
+      416
+    ],
+    "sha256": "459459e5b93ebcc886e41ec8b195e38dc0cbded2de86e58064ec0c9748d8352d"
+  },
+  "u4:give": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "f335e26147ff1635faf95b7c54988bb8703e7ddea909df7a5bfdffc6cc0f48f2"
+  },
+  "u4:us": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "9bbf96dd9725b9e91c04262533a3de7611f1e2064c4f54e51683ff2d917c5ddf"
+  },
+  "u4:them": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "13da7deb8e96b9500cedbbffb29fe3b46f8cbed839a123c67610aa18574acfbe"
+  },
+  "u5:colour": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/colour.webp",
+    "sha256": "7b5163683541729ccde1ae181245b76b83cc4ac22957ba93e000a05b612011da"
+  },
+  "u5:orange": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/orange.webp",
+    "sha256": "c655986759f422cf9afcd167c4c2a8ff81b4655cc37ec0683c73b5b3bdb0ad17"
+  },
+  "u5:green": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/green.webp",
+    "sha256": "6d5be180c8e5f39cc2f6b243d02f1651c7b6aa8717ea47fe45d17dcc84b22817"
+  },
+  "u5:red": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/red.webp",
+    "sha256": "a7bb8f9b79b0054a047fbdd2c8eeb33ef0830f71a7e1eb4132ff0ff9d48ac044"
+  },
+  "u5:blue": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/blue.webp",
+    "sha256": "3401a77ab6d3140c511d8e386ac552e592ad4b5afd18faf064d8561188c6a28f"
+  },
+  "u5:make": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "ed49e676645bf17e250f15defde668f5a4db7074d2d0669011e7016af6f61227"
+  },
+  "u5:purple": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "f575d22a8a6a51add54ba084537a463197385a3786897213dbaccc2b7bbae75b"
+  },
+  "u5:brown": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/brown.webp",
+    "sha256": "e0cd2a618cd3411503141b71ee93a24f509547bbbb9339f714a42236ecaf7e95"
+  },
+  "u5:bear": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "aa5e099a992b8034d355e9796f5e59e451846e901827e4c4fe37831c3fabb577"
+  },
+  "u5:yellow": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/yellow.webp",
+    "sha256": "51556a5c2eb43bd2bc4fab7383f5a043050bf5e6a53ef15cad5ab7c465405fe7"
+  },
+  "u5:duck": {
+    "原稿": "exec-8e128324-7438-45d0-8e7a-3c13970c63b9.png",
+    "区域": [
+      838,
+      838,
+      1252,
+      1252
+    ],
+    "sha256": "11471cef58b277393693cc6253f619705c6fc6e911351ab126495a1c86da3ad2"
+  },
+  "u5:sea": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      2,
+      2,
+      416,
+      416
+    ],
+    "sha256": "d12a54d1c9dd70832d117c63b930aeacd62f18d75378d0a4a66b16d23e303987"
+  },
+  "u5:pink": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      838,
+      2,
+      1252,
+      416
+    ],
+    "sha256": "aa29ebb521de5c4dc16e03ab5ea12a17b52083d96b3c4622eaa91cc196d099df"
+  },
+  "u5:draw": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      2,
+      420,
+      416,
+      834
+    ],
+    "sha256": "ea7712e9799f6d70ea48aecce06d7e8bb512b13bccb43e2479eae3a6ec79197c"
+  },
+  "u5:white": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      420,
+      420,
+      834,
+      834
+    ],
+    "sha256": "45892f74c155d88e728010adba660d416fb2291657f5513ad36988cdb6920a8a"
+  },
+  "u5:black": {
+    "复用": "outputs/神秘森林一年级上52图/网页图/black.webp",
+    "sha256": "f16280579dcc0dfc7595f3381c2de5b26a5a63ebaddd483bb83ab0775ea7c53c"
+  },
+  "u6:old": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      838,
+      420,
+      1252,
+      834
+    ],
+    "sha256": "8156c6bef965c1276764e13ba07b430468f2eb94508b3ba6a714c235819b1ebb"
+  },
+  "u6:five": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/five.webp",
+    "sha256": "d11bb06fe398605ca78ee9f9a21a7db7c902e203b0b4b8cbfd3bb99be65b78e8"
+  },
+  "u6:year": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      2,
+      838,
+      416,
+      1252
+    ],
+    "sha256": "6b00b15825005618ded190514aa817f8e5c41b522c8a080d2ebe2f6566ade559"
+  },
+  "u6:one": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/one.webp",
+    "sha256": "9f1c2d73b58f3ff3e197cd92b8517031bd4f09bcc8e781fb532cdfc1a13c052b"
+  },
+  "u6:two": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/two.webp",
+    "sha256": "7a439d53b28d8707277598e6afabf8f404c4431eceb60a91c0b0503093948d43"
+  },
+  "u6:three": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/three.webp",
+    "sha256": "a8f78d99ff12bd416e4d8b3aa7c8581adc3498a857b6ed374572cc51332d0a0f"
+  },
+  "u6:four": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/four.webp",
+    "sha256": "9ea4283465324cd9440fd343521011e6a953fa17064d9f45a3cb15d46cdf956f"
+  },
+  "u6:ten": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/ten.webp",
+    "sha256": "f3d8c92798c90850f26f0bf95d3208bd196e10da9947d3b37fbc7adca55a853a"
+  },
+  "u6:six": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/six.webp",
+    "sha256": "3ca10d36030406a3895b7f5112cc7659381174e43da4c4cdfa852f7caf1450b2"
+  },
+  "u6:seven": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/seven.webp",
+    "sha256": "c4bd5d05f594b4bfbe6cb792c578f9656b6bd2d62d1cb2e957fc371bc003e942"
+  },
+  "u6:eight": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/eight.webp",
+    "sha256": "5d20c5998d3e68c2980bbdf446d99426d237fb4c158df56333ff74ff8aa19504"
+  },
+  "u6:nine": {
+    "复用": "outputs/PEP二上森林卡绘/网页图/nine.webp",
+    "sha256": "574f4553a6a0987de3f0832ed5e824dc9779ebaa5afad31905af24d55cab9aa0"
+  },
+  "u6:o'clock": {
+    "原稿": "exec-af7f4389-4175-4304-acf9-0d419c90a6f6.png",
+    "区域": [
+      420,
+      838,
+      834,
+      1252
+    ],
+    "sha256": "eda215a7a6215f512207011ae9cb6b302b6694b6af57f1b86231a710d41a4d02"
+  },
+  "u6:cut": {
+    "原稿": "exec-1b342d65-60d9-4f37-b3c9-8c88e07fc52e.png",
+    "区域": [
+      726,
+      2,
+      1446,
+      722
+    ],
+    "sha256": "c878a824f1c8f628b3b8bb9dcda4987ef53ef27914adbe5d3e52e66c6f8077a0"
+  },
+  "u6:eat": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      2,
+      2,
+      510,
+      510
+    ],
+    "sha256": "b2c794bf3ef5579b597895fb2b8cd0a253fd320fd61cd7fde6dd48cca3b6ebcb"
+  },
+  "u6:cake": {
+    "原稿": "exec-28922985-6eae-4267-bf3e-1304c0e89228.png",
+    "区域": [
+      514,
+      2,
+      1022,
+      510
+    ],
+    "sha256": "1aa4d53736a42b5ba4d61bd670df68050b62fc3eb5052fb283f08bc91cc3449a"
+  }
+}
