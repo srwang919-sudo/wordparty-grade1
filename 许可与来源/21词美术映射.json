@@ -1,0 +1,323 @@
+[
+  {
+    "word": "hello",
+    "unit": 1,
+    "zh": "你好",
+    "scene": "两名孩子见面，面对面挥手问好",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      2,
+      2,
+      510,
+      510
+    ],
+    "file": "网页图/hello.webp",
+    "sha256": "ff2250c3ae7850249416bd73884e97c30daf18fba2ba841673ae518ff6ab6618"
+  },
+  {
+    "word": "hi",
+    "unit": 1,
+    "zh": "嗨；你好",
+    "scene": "小朋友从树后探头，随意挥手打招呼",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      514,
+      2,
+      1022,
+      510
+    ],
+    "file": "网页图/hi.webp",
+    "sha256": "0e8b898dd843afaea241ad2450da0d56e5f1b134a964f5762442d62ca0344226"
+  },
+  {
+    "word": "bye",
+    "unit": 1,
+    "zh": "再见",
+    "scene": "背包孩子已经离开，回头与留下的伙伴挥手告别",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      1026,
+      2,
+      1534,
+      510
+    ],
+    "file": "网页图/bye.webp",
+    "sha256": "ab054de1f69c4413733554412959218b51215250352e3a15f590505060e5359a"
+  },
+  {
+    "word": "pencil",
+    "unit": 2,
+    "zh": "铅笔",
+    "scene": "单支木杆铅笔及其削好的笔尖",
+    "method": "原图复用",
+    "source": "outputs/神秘森林一年级上52图/网页图/pencil.webp",
+    "crop": null,
+    "file": "网页图/pencil.webp",
+    "sha256": "db34808165ea14e4295b3dbc1eed7ec5e2f0655ccb8cc8056eff66e184c4e2b0"
+  },
+  {
+    "word": "book",
+    "unit": 2,
+    "zh": "书",
+    "scene": "蓝色封面的装订书本",
+    "method": "原图复用",
+    "source": "outputs/神秘森林一年级上52图/网页图/book.webp",
+    "crop": null,
+    "file": "网页图/book.webp",
+    "sha256": "d49d6ea7547cfe2da7a5de5b862bb81839d3083f36d144d635c299392c1a2a8f"
+  },
+  {
+    "word": "show",
+    "unit": 2,
+    "zh": "展示",
+    "scene": "孩子把蝴蝶画面向两位同伴展示",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      2,
+      514,
+      510,
+      1022
+    ],
+    "file": "网页图/show.webp",
+    "sha256": "0fbce6e133865cb0d646738e67e9d8f2c6568bb55e23975f0252d6bd718a4dc5"
+  },
+  {
+    "word": "open",
+    "unit": 2,
+    "zh": "打开",
+    "scene": "双手抬起木箱的盖子，盖子已经张开",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      514,
+      514,
+      1022,
+      1022
+    ],
+    "file": "网页图/open.webp",
+    "sha256": "e2805cb257b894fae9c7ee4fad24b0160eb5b83d9aa32fb98dd724d8e20fd2c6"
+  },
+  {
+    "word": "look",
+    "unit": 3,
+    "zh": "看",
+    "scene": "放大镜后睁大的眼睛看着叶上的瓢虫",
+    "method": "新绘",
+    "source": "原稿/call_TOmTdZSmbHDWPovXUfIBFA0W.png",
+    "crop": [
+      1026,
+      514,
+      1534,
+      1022
+    ],
+    "file": "网页图/look.webp",
+    "sha256": "9443232c578f1828f91fd5dcf577d4f4bedb289a4b905c8d89638c5fbccac76f"
+  },
+  {
+    "word": "listen",
+    "unit": 3,
+    "zh": "（注意地）听",
+    "scene": "孩子闭眼把手拢在耳边，听小鸟唱歌",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      2,
+      2,
+      510,
+      510
+    ],
+    "file": "网页图/listen.webp",
+    "sha256": "db47fc77c9417ffff80c353bb69fbc53779a2eefdb8314d110ba1fb301b6169f"
+  },
+  {
+    "word": "read",
+    "unit": 3,
+    "zh": "读",
+    "scene": "眼睛与手指跟随书页内容阅读",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      514,
+      2,
+      1022,
+      510
+    ],
+    "file": "网页图/read.webp",
+    "sha256": "41e74d10d4f0219b1b82bf9da98ada33a932f0adca70ca56fda93dc1bf38f433"
+  },
+  {
+    "word": "say",
+    "unit": 3,
+    "zh": "说",
+    "scene": "孩子开口说话，尾端指向嘴巴的气泡中是苹果图案",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      1026,
+      2,
+      1534,
+      510
+    ],
+    "file": "网页图/say.webp",
+    "sha256": "6010a991b0c3dd4fb49230039bb6f21252d03305232964f3d63bd6c7b739c4da"
+  },
+  {
+    "word": "bottle",
+    "unit": 4,
+    "zh": "瓶",
+    "scene": "带旋盖、瓶口和透明瓶身的水瓶",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      2,
+      514,
+      510,
+      1022
+    ],
+    "file": "网页图/bottle.webp",
+    "sha256": "be4fa896d3126ad71d1e49eec09d00df9793637cf6811e7f9987dc58eddf3072"
+  },
+  {
+    "word": "pencil case",
+    "unit": 4,
+    "zh": "笔袋；铅笔盒",
+    "scene": "拉开的笔袋，里面装着铅笔与橡皮",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      514,
+      514,
+      1022,
+      1022
+    ],
+    "file": "网页图/pencil case.webp",
+    "sha256": "3877e7c156620e0ab0db3e034dcfe19dafd15a4ec206330c4151c2380e7d5639"
+  },
+  {
+    "word": "bag",
+    "unit": 4,
+    "zh": "包；袋",
+    "scene": "双提手帆布手提包，区别于书包和笔袋",
+    "method": "新绘",
+    "source": "原稿/call_lY0D3gCFAQFs8o68F6LVyBy5.png",
+    "crop": [
+      1026,
+      514,
+      1534,
+      1022
+    ],
+    "file": "网页图/bag.webp",
+    "sha256": "ac0173794f192e5a16858d6119a3cdb49f145841eaa734685e6a4fe57c7599ea"
+  },
+  {
+    "word": "cap",
+    "unit": 4,
+    "zh": "帽子",
+    "scene": "带弧形帽檐的棒球帽",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      2,
+      2,
+      510,
+      510
+    ],
+    "file": "网页图/cap.webp",
+    "sha256": "15b1bd6894d2b990525884757ec3662ce09799b7266f495b49cd9fd5193d0304"
+  },
+  {
+    "word": "brother",
+    "unit": 5,
+    "zh": "哥；弟",
+    "scene": "哥哥拉着妹妹跨过倒木（以哥哥为该词示例）",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      514,
+      2,
+      1022,
+      510
+    ],
+    "file": "网页图/brother.webp",
+    "sha256": "6a188de92f882317eba0bbe146964d5c8430b5d67446979ee18a20975765a04d"
+  },
+  {
+    "word": "dad",
+    "unit": 5,
+    "zh": "爸爸",
+    "scene": "爸爸让孩子骑在自己肩上",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      1026,
+      2,
+      1534,
+      510
+    ],
+    "file": "网页图/dad.webp",
+    "sha256": "52334e8a81bd510f680d51ca3c4fc71b1648b8166c2ff003f7f8c1f75edb6f8b"
+  },
+  {
+    "word": "mum",
+    "unit": 5,
+    "zh": "妈妈",
+    "scene": "妈妈和孩子拥抱",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      2,
+      514,
+      510,
+      1022
+    ],
+    "file": "网页图/mum.webp",
+    "sha256": "e0b68daa7ac93e72d496631ff07871fdebf47e9e89de492b847cf6e022de9517"
+  },
+  {
+    "word": "sister",
+    "unit": 5,
+    "zh": "姐；妹",
+    "scene": "姐姐帮弟弟系鞋带（以姐姐为该词示例）",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      514,
+      514,
+      1022,
+      1022
+    ],
+    "file": "网页图/sister.webp",
+    "sha256": "c23af6f4b0e68cb67ee72944481a73b04173fcbe06f3dba3ab417396760a272a"
+  },
+  {
+    "word": "classmate",
+    "unit": 5,
+    "zh": "同班同学",
+    "scene": "同一教室里并排坐着的两位同班同学",
+    "method": "新绘",
+    "source": "原稿/call_9l0gkc8sCH4VySmW69SkiQFs.png",
+    "crop": [
+      1026,
+      514,
+      1534,
+      1022
+    ],
+    "file": "网页图/classmate.webp",
+    "sha256": "d2682fbc01b018debbcd82235ec3b8354c3201246210e8614dcc1d10b5af1cd5"
+  },
+  {
+    "word": "teacher",
+    "unit": 5,
+    "zh": "教师",
+    "scene": "老师用教鞭指着示意图给学生讲课",
+    "method": "原图复用",
+    "source": "outputs/神秘森林一年级上52图/网页图/teacher.webp",
+    "crop": null,
+    "file": "网页图/teacher.webp",
+    "sha256": "590fdc80e18c2686a46a207f0c1d445a8662edf1f3f9d0b898d4ca9aa9a4242e"
+  }
+]
