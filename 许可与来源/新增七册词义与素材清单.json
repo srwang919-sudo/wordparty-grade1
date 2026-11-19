@@ -1,0 +1,5036 @@
+[
+  {
+    "key": "pep-g3-s2:u1:where",
+    "word": "where",
+    "meaning": "在哪里；到哪里",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:from",
+    "word": "from",
+    "meaning": "（表示来源）来自，从⋯⋯来",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:about",
+    "word": "about",
+    "meaning": "大约；左右",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:today",
+    "word": "today",
+    "meaning": "今天",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:teacher",
+    "word": "teacher",
+    "meaning": "教师",
+    "existing": "outputs/PEP一上森林卡绘/网页图/teacher.webp"
+  },
+  {
+    "key": "pep-g3-s2:u1:student",
+    "word": "student",
+    "meaning": "学生",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:after",
+    "word": "after",
+    "meaning": "在⋯⋯后面",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:who",
+    "word": "who",
+    "meaning": "谁；什么人",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:girl",
+    "word": "girl",
+    "meaning": "女孩",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:neighbour",
+    "word": "neighbour",
+    "meaning": "邻居",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:boy",
+    "word": "boy",
+    "meaning": "男孩",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:woman",
+    "word": "woman",
+    "meaning": "成年女子；妇女",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:man",
+    "word": "man",
+    "meaning": "成年男子；男人",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:Mr",
+    "word": "Mr",
+    "meaning": "（用于男子的姓氏或姓名前）先生",
+    "existing": "outputs/PEP一下森林卡绘/网页图/Mr.webp"
+  },
+  {
+    "key": "pep-g3-s2:u1:classmate",
+    "word": "classmate",
+    "meaning": "同班同学",
+    "existing": "outputs/PEP一上森林卡绘/网页图/classmate.webp"
+  },
+  {
+    "key": "pep-g3-s2:u1:he",
+    "word": "he",
+    "meaning": "他",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:also",
+    "word": "also",
+    "meaning": "也",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:English",
+    "word": "English",
+    "meaning": "英语的；英语",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:she",
+    "word": "she",
+    "meaning": "她",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:very",
+    "word": "very",
+    "meaning": "很；非常；十分",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:UK",
+    "word": "UK",
+    "meaning": "英国",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:China",
+    "word": "China",
+    "meaning": "中国",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:Canada",
+    "word": "Canada",
+    "meaning": "加拿大",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u1:USA",
+    "word": "USA",
+    "meaning": "美国",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:has",
+    "word": "has",
+    "meaning": "（have的第三人称单数形式）具有（某种外表、特性或特征）",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:long",
+    "word": "long",
+    "meaning": "（长度或距离）长的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:body",
+    "word": "body",
+    "meaning": "身体",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:short",
+    "word": "short",
+    "meaning": "短的；个子矮的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:leg",
+    "word": "leg",
+    "meaning": "腿",
+    "existing": "outputs/PEP二下森林卡绘/网页图/leg.webp"
+  },
+  {
+    "key": "pep-g3-s2:u2:right",
+    "word": "right",
+    "meaning": "（意见或判断）准确，确切，恰当",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:fat",
+    "word": "fat",
+    "meaning": "肥的；肥胖的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:thin",
+    "word": "thin",
+    "meaning": "瘦的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:slow",
+    "word": "slow",
+    "meaning": "缓慢的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:love",
+    "word": "love",
+    "meaning": "喜爱；爱",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:tail",
+    "word": "tail",
+    "meaning": "尾；尾巴",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:her",
+    "word": "her",
+    "meaning": "她；她的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:gift",
+    "word": "gift",
+    "meaning": "礼物",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:picture",
+    "word": "picture",
+    "meaning": "图画；绘画",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:card",
+    "word": "card",
+    "meaning": "贺卡；慰问卡；卡片",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:sing",
+    "word": "sing",
+    "meaning": "唱（歌）；演唱",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:dance",
+    "word": "dance",
+    "meaning": "跳舞",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:talk",
+    "word": "talk",
+    "meaning": "说话；讲话；谈话",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:face",
+    "word": "face",
+    "meaning": "脸；面孔",
+    "existing": "outputs/PEP一下森林卡绘/网页图/face.webp"
+  },
+  {
+    "key": "pep-g3-s2:u2:all",
+    "word": "all",
+    "meaning": "所有；全部",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:song",
+    "word": "song",
+    "meaning": "歌；歌曲",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:or",
+    "word": "or",
+    "meaning": "或；或者；还是",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:so",
+    "word": "so",
+    "meaning": "(表示大小或数量) 这么, 那么",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u2:much",
+    "word": "much",
+    "meaning": "许多；大量",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:eraser",
+    "word": "eraser",
+    "meaning": "橡皮",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:find",
+    "word": "find",
+    "meaning": "找到；找回",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:ruler",
+    "word": "ruler",
+    "meaning": "直尺",
+    "existing": "outputs/神秘森林一年级上52图/网页图/ruler.webp"
+  },
+  {
+    "key": "pep-g3-s2:u3:pen",
+    "word": "pen",
+    "meaning": "钢笔",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:pencil",
+    "word": "pencil",
+    "meaning": "铅笔",
+    "existing": "outputs/PEP一上森林卡绘/网页图/pencil.webp"
+  },
+  {
+    "key": "pep-g3-s2:u3:book",
+    "word": "book",
+    "meaning": "书；书籍",
+    "existing": "outputs/PEP一上森林卡绘/网页图/book.webp"
+  },
+  {
+    "key": "pep-g3-s2:u3:bag",
+    "word": "bag",
+    "meaning": "包；袋",
+    "existing": "outputs/PEP一上森林卡绘/网页图/bag.webp"
+  },
+  {
+    "key": "pep-g3-s2:u3:paper",
+    "word": "paper",
+    "meaning": "纸",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:these",
+    "word": "these",
+    "meaning": "这些",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:see",
+    "word": "see",
+    "meaning": "看见",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:smell",
+    "word": "smell",
+    "meaning": "闻（气味）",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:taste",
+    "word": "taste",
+    "meaning": "尝（味道）",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:hear",
+    "word": "hear",
+    "meaning": "听见；听到",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:touch",
+    "word": "touch",
+    "meaning": "触摸；碰",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:nose",
+    "word": "nose",
+    "meaning": "鼻；鼻子",
+    "existing": "outputs/神秘森林一年级上52图/网页图/nose.webp"
+  },
+  {
+    "key": "pep-g3-s2:u3:tongue",
+    "word": "tongue",
+    "meaning": "舌；舌头",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:class",
+    "word": "class",
+    "meaning": "课；班级",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:in class",
+    "word": "in class",
+    "meaning": "在课堂上",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:computer",
+    "word": "computer",
+    "meaning": "计算机；电脑",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u3:learn",
+    "word": "learn",
+    "meaning": "学；学习",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:breakfast",
+    "word": "breakfast",
+    "meaning": "早餐；早饭",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:time",
+    "word": "time",
+    "meaning": "时间",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:bread",
+    "word": "bread",
+    "meaning": "面包",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:egg",
+    "word": "egg",
+    "meaning": "（作食物用的）蛋；鸡蛋",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:milk",
+    "word": "milk",
+    "meaning": "（牛或羊等的）奶",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:noodle",
+    "word": "noodle",
+    "meaning": "（常用复数）面条",
+    "existing": "outputs/PEP一下森林卡绘/网页图/noodle.webp"
+  },
+  {
+    "key": "pep-g3-s2:u4:juice",
+    "word": "juice",
+    "meaning": "果汁",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:rice",
+    "word": "rice",
+    "meaning": "大米",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:meat",
+    "word": "meat",
+    "meaning": "肉",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:vegetable",
+    "word": "vegetable",
+    "meaning": "蔬菜",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:healthy",
+    "word": "healthy",
+    "meaning": "健康的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:plate",
+    "word": "plate",
+    "meaning": "盘子",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:soup",
+    "word": "soup",
+    "meaning": "汤",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:fruit",
+    "word": "fruit",
+    "meaning": "水果",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:colourful",
+    "word": "colourful",
+    "meaning": "五彩缤纷的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:candy",
+    "word": "candy",
+    "meaning": "糖果",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u4:yummy",
+    "word": "yummy",
+    "meaning": "很好吃的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:boat",
+    "word": "boat",
+    "meaning": "小船；舟",
+    "existing": "outputs/PEP二上森林卡绘/网页图/boat.webp"
+  },
+  {
+    "key": "pep-g3-s2:u5:cool",
+    "word": "cool",
+    "meaning": "（因时髦、漂亮且与众不同而）酷的，绝妙的",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:keep",
+    "word": "keep",
+    "meaning": "保有；留着",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:at",
+    "word": "at",
+    "meaning": "在（某处）",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:home",
+    "word": "home",
+    "meaning": "家；住所",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:ball",
+    "word": "ball",
+    "meaning": "球",
+    "existing": "outputs/PEP二上森林卡绘/网页图/ball.webp"
+  },
+  {
+    "key": "pep-g3-s2:u5:doll",
+    "word": "doll",
+    "meaning": "玩偶；玩具娃娃",
+    "existing": "outputs/PEP二上森林卡绘/网页图/doll.webp"
+  },
+  {
+    "key": "pep-g3-s2:u5:car",
+    "word": "car",
+    "meaning": "小汽车；轿车",
+    "existing": "outputs/PEP二上森林卡绘/网页图/car.webp"
+  },
+  {
+    "key": "pep-g3-s2:u5:on",
+    "word": "on",
+    "meaning": "（覆盖、附着）在……上",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:shelf",
+    "word": "shelf",
+    "meaning": "（复数 shelves）架子",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:in",
+    "word": "in",
+    "meaning": "在……内；在……中",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:box",
+    "word": "box",
+    "meaning": "盒子",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:cap",
+    "word": "cap",
+    "meaning": "帽子",
+    "existing": "outputs/PEP一上森林卡绘/网页图/cap.webp"
+  },
+  {
+    "key": "pep-g3-s2:u5:map",
+    "word": "map",
+    "meaning": "地图",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:under",
+    "word": "under",
+    "meaning": "在（或到、通过）……下面",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:still",
+    "word": "still",
+    "meaning": "还是；仍然",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u5:put",
+    "word": "put",
+    "meaning": "放；安置",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:fifteen",
+    "word": "fifteen",
+    "meaning": "十五",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:twelve",
+    "word": "twelve",
+    "meaning": "十二",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:fourteen",
+    "word": "fourteen",
+    "meaning": "十四",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:thirteen",
+    "word": "thirteen",
+    "meaning": "十三",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:eleven",
+    "word": "eleven",
+    "meaning": "十一",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:twenty",
+    "word": "twenty",
+    "meaning": "二十",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:seventeen",
+    "word": "seventeen",
+    "meaning": "十七",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:sixteen",
+    "word": "sixteen",
+    "meaning": "十六",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:eighteen",
+    "word": "eighteen",
+    "meaning": "十八",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:nineteen",
+    "word": "nineteen",
+    "meaning": "十九",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:piggy bank",
+    "word": "piggy bank",
+    "meaning": "猪形储钱罐",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:pay",
+    "word": "pay",
+    "meaning": "付费",
+    "existing": null
+  },
+  {
+    "key": "pep-g3-s2:u6:back",
+    "word": "back",
+    "meaning": "回到原处",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:PE",
+    "word": "PE",
+    "meaning": "体育(课)",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:job",
+    "word": "job",
+    "meaning": "工作；职业",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:doctor",
+    "word": "doctor",
+    "meaning": "医生",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:farmer",
+    "word": "farmer",
+    "meaning": "农场主；农民",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:nurse",
+    "word": "nurse",
+    "meaning": "护士",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:office worker",
+    "word": "office worker",
+    "meaning": "公司职员",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:factory worker",
+    "word": "factory worker",
+    "meaning": "工厂工人",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:busy",
+    "word": "busy",
+    "meaning": "忙碌的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:tired",
+    "word": "tired",
+    "meaning": "疲倦的",
+    "existing": "outputs/PEP二上森林卡绘/网页图/tired.webp"
+  },
+  {
+    "key": "pep-g4-s1:u1:chore",
+    "word": "chore",
+    "meaning": "家庭杂务",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:cook",
+    "word": "cook",
+    "meaning": "烹饪；煮",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:clean",
+    "word": "clean",
+    "meaning": "打扫；干净的",
+    "existing": "outputs/PEP二上森林卡绘/网页图/clean.webp"
+  },
+  {
+    "key": "pep-g4-s1:u1:room",
+    "word": "room",
+    "meaning": "房间",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:look after",
+    "word": "look after",
+    "meaning": "照顾",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:sweep",
+    "word": "sweep",
+    "meaning": "扫",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:floor",
+    "word": "floor",
+    "meaning": "地板；地面",
+    "existing": "outputs/PEP二上森林卡绘/网页图/floor.webp"
+  },
+  {
+    "key": "pep-g4-s1:u1:together",
+    "word": "together",
+    "meaning": "在一起；共同",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:people",
+    "word": "people",
+    "meaning": "人；人们",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u1:child",
+    "word": "child",
+    "meaning": "（复数children） 儿童；小孩",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:his",
+    "word": "his",
+    "meaning": "他的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:strong",
+    "word": "strong",
+    "meaning": "强壮的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:hair",
+    "word": "hair",
+    "meaning": "头发",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:kind",
+    "word": "kind",
+    "meaning": "友好的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:quiet",
+    "word": "quiet",
+    "meaning": "文静的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:best",
+    "word": "best",
+    "meaning": "最好的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:read",
+    "word": "read",
+    "meaning": "阅读",
+    "existing": "outputs/PEP一上森林卡绘/网页图/read.webp"
+  },
+  {
+    "key": "pep-g4-s1:u2:Chinese",
+    "word": "Chinese",
+    "meaning": "中文；中国人；中国的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:play",
+    "word": "play",
+    "meaning": "玩耍",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:game",
+    "word": "game",
+    "meaning": "游戏",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:football",
+    "word": "football",
+    "meaning": "足球运动",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:basketball",
+    "word": "basketball",
+    "meaning": "篮球运动",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u2:always",
+    "word": "always",
+    "meaning": "总是",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:afternoon",
+    "word": "afternoon",
+    "meaning": "下午",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:there",
+    "word": "there",
+    "meaning": "（表示存在或发生）；在那里",
+    "existing": "outputs/神秘森林一年级上52图/网页图/there.webp"
+  },
+  {
+    "key": "pep-g4-s1:u3:playground",
+    "word": "playground",
+    "meaning": "游乐场；操场",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:park",
+    "word": "park",
+    "meaning": "公园",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:over",
+    "word": "over",
+    "meaning": "在⋯⋯的远端（或对面）",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:hospital",
+    "word": "hospital",
+    "meaning": "医院",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:shop",
+    "word": "shop",
+    "meaning": "商店",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:toilet",
+    "word": "toilet",
+    "meaning": "厕所；卫生间",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:bus stop",
+    "word": "bus stop",
+    "meaning": "公共汽车站",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:library",
+    "word": "library",
+    "meaning": "图书馆",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:sport",
+    "word": "sport",
+    "meaning": "体育运动",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:walk",
+    "word": "walk",
+    "meaning": "散步；行走",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:community",
+    "word": "community",
+    "meaning": "社区",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:favourite",
+    "word": "favourite",
+    "meaning": "最喜欢的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:place",
+    "word": "place",
+    "meaning": "地方；场所",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:photo",
+    "word": "photo",
+    "meaning": "照片",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:story",
+    "word": "story",
+    "meaning": "故事",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u3:buy",
+    "word": "buy",
+    "meaning": "购买",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:firefighter",
+    "word": "firefighter",
+    "meaning": "消防队员",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:why",
+    "word": "why",
+    "meaning": "为什么",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:driver",
+    "word": "driver",
+    "meaning": "司机",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:important",
+    "word": "important",
+    "meaning": "重要的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:cleaner",
+    "word": "cleaner",
+    "meaning": "清洁工",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:cook",
+    "word": "cook",
+    "meaning": "厨师",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:delivery worker",
+    "word": "delivery worker",
+    "meaning": "快递员",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:police officer",
+    "word": "police officer",
+    "meaning": "警察；警员",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:a lot of",
+    "word": "a lot of",
+    "meaning": "大量；许多",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:now",
+    "word": "now",
+    "meaning": "现在",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:make the bed",
+    "word": "make the bed",
+    "meaning": "铺床",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:old",
+    "word": "old",
+    "meaning": "过去的；年纪大的；老的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:tell",
+    "word": "tell",
+    "meaning": "讲述；告诉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:everyone",
+    "word": "everyone",
+    "meaning": "每人",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u4:Ms",
+    "word": "Ms",
+    "meaning": "（用于女子的姓氏或姓名前，不指明婚否）女士",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:speak",
+    "word": "speak",
+    "meaning": "说话；发言",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:weather",
+    "word": "weather",
+    "meaning": "天气",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:sunny",
+    "word": "sunny",
+    "meaning": "阳光充足的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:hot",
+    "word": "hot",
+    "meaning": "热的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:bad",
+    "word": "bad",
+    "meaning": "令人不快的；坏的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:cold",
+    "word": "cold",
+    "meaning": "冷的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:windy",
+    "word": "windy",
+    "meaning": "多风的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:cloudy",
+    "word": "cloudy",
+    "meaning": "多云的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:rainy",
+    "word": "rainy",
+    "meaning": "阴雨的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:snowy",
+    "word": "snowy",
+    "meaning": "多雪的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:cool",
+    "word": "cool",
+    "meaning": "凉爽的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:warm",
+    "word": "warm",
+    "meaning": "温暖的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:tomorrow",
+    "word": "tomorrow",
+    "meaning": "在明天",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:rain",
+    "word": "rain",
+    "meaning": "下雨；雨",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:closed",
+    "word": "closed",
+    "meaning": "关闭的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:film",
+    "word": "film",
+    "meaning": "电影",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:idea",
+    "word": "idea",
+    "meaning": "想法；主意",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:fly",
+    "word": "fly",
+    "meaning": "操纵（飞行器等）；飞",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:kite",
+    "word": "kite",
+    "meaning": "风筝",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:snowman",
+    "word": "snowman",
+    "meaning": "雪人",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:fun",
+    "word": "fun",
+    "meaning": "享乐；乐趣",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:their",
+    "word": "their",
+    "meaning": "他们的；她们的；它们的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u5:swim",
+    "word": "swim",
+    "meaning": "游泳",
+    "existing": "outputs/PEP一下森林卡绘/网页图/swim.webp"
+  },
+  {
+    "key": "pep-g4-s1:u5:Sydney",
+    "word": "Sydney",
+    "meaning": "悉尼",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:whose",
+    "word": "whose",
+    "meaning": "谁的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:sweater",
+    "word": "sweater",
+    "meaning": "毛衣",
+    "existing": "outputs/PEP二下森林卡绘/网页图/sweater.webp"
+  },
+  {
+    "key": "pep-g4-s1:u6:sock",
+    "word": "sock",
+    "meaning": "短袜",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:mine",
+    "word": "mine",
+    "meaning": "我的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:wear",
+    "word": "wear",
+    "meaning": "穿；戴",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:shirt",
+    "word": "shirt",
+    "meaning": "衬衫",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:coat",
+    "word": "coat",
+    "meaning": "大衣；外套",
+    "existing": "outputs/PEP二下森林卡绘/网页图/coat.webp"
+  },
+  {
+    "key": "pep-g4-s1:u6:dress",
+    "word": "dress",
+    "meaning": "连衣裙",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:which",
+    "word": "which",
+    "meaning": "哪一个；哪一些",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:season",
+    "word": "season",
+    "meaning": "季节",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:winter",
+    "word": "winter",
+    "meaning": "冬天",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:snow",
+    "word": "snow",
+    "meaning": "下雪；雪",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:get together",
+    "word": "get together",
+    "meaning": "聚会",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:spring",
+    "word": "spring",
+    "meaning": "春天",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:summer",
+    "word": "summer",
+    "meaning": "夏天",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:autumn",
+    "word": "autumn",
+    "meaning": "秋天",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:T-shirt",
+    "word": "T-shirt",
+    "meaning": "T 恤衫",
+    "existing": "outputs/PEP二下森林卡绘/网页图/T-shirt.webp"
+  },
+  {
+    "key": "pep-g4-s1:u6:fall",
+    "word": "fall",
+    "meaning": "落下",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:leaf",
+    "word": "leaf",
+    "meaning": "叶",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:glove",
+    "word": "glove",
+    "meaning": "手套",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s1:u6:then",
+    "word": "then",
+    "meaning": "然后；那时",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:sorry",
+    "word": "sorry",
+    "meaning": "对不起",
+    "existing": "outputs/PEP一下森林卡绘/网页图/sorry.webp"
+  },
+  {
+    "key": "pep-g4-s2:u1:hurry up",
+    "word": "hurry up",
+    "meaning": "快点；赶快",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:late",
+    "word": "late",
+    "meaning": "迟到；迟发生",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:class",
+    "word": "class",
+    "meaning": "课； 课程；班；班级",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:ready",
+    "word": "ready",
+    "meaning": "准备好",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:rule",
+    "word": "rule",
+    "meaning": "规则； 规章",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:classroom",
+    "word": "classroom",
+    "meaning": "教室",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:turn off",
+    "word": "turn off",
+    "meaning": "关掉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:light",
+    "word": "light",
+    "meaning": "灯；光",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:blackboard",
+    "word": "blackboard",
+    "meaning": "黑板",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:desk",
+    "word": "desk",
+    "meaning": "书桌；办公桌",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:chair",
+    "word": "chair",
+    "meaning": "椅子",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:tidy",
+    "word": "tidy",
+    "meaning": "整洁的；整齐的；使整洁；整理",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:music",
+    "word": "music",
+    "meaning": "音乐",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:door",
+    "word": "door",
+    "meaning": "门",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:window",
+    "word": "window",
+    "meaning": "窗",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:fan",
+    "word": "fan",
+    "meaning": "风扇",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:when",
+    "word": "when",
+    "meaning": "当⋯⋯时；什么时候",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:understand",
+    "word": "understand",
+    "meaning": "懂；理解",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:wall",
+    "word": "wall",
+    "meaning": "墙；壁",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:newspaper",
+    "word": "newspaper",
+    "meaning": "报纸",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:hand out",
+    "word": "hand out",
+    "meaning": "分发",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u1:workbook",
+    "word": "workbook",
+    "meaning": "练习册；作业本",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:watch",
+    "word": "watch",
+    "meaning": "看",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:TV",
+    "word": "TV",
+    "meaning": "电视",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:homework",
+    "word": "homework",
+    "meaning": "家庭作业",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:first",
+    "word": "first",
+    "meaning": "首先；首次；第一",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:wet",
+    "word": "wet",
+    "meaning": "湿的；未干的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:run",
+    "word": "run",
+    "meaning": "跑；奔跑",
+    "existing": "outputs/PEP一下森林卡绘/网页图/run.webp"
+  },
+  {
+    "key": "pep-g4-s2:u2:living room",
+    "word": "living room",
+    "meaning": "客厅；起居室",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:safe",
+    "word": "safe",
+    "meaning": "安全的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:word",
+    "word": "word",
+    "meaning": "言语；单词；字",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:wash",
+    "word": "wash",
+    "meaning": "洗",
+    "existing": "outputs/PEP一下森林卡绘/网页图/wash.webp"
+  },
+  {
+    "key": "pep-g4-s2:u2:helpful",
+    "word": "helpful",
+    "meaning": "有帮助的；有用的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:loud",
+    "word": "loud",
+    "meaning": "说话太大声的；吵闹的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:sleep",
+    "word": "sleep",
+    "meaning": "睡觉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:bedroom",
+    "word": "bedroom",
+    "meaning": "卧室",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:kitchen",
+    "word": "kitchen",
+    "meaning": "厨房",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:study",
+    "word": "study",
+    "meaning": "书房",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:bathroom",
+    "word": "bathroom",
+    "meaning": "浴室；洗手间",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:think",
+    "word": "think",
+    "meaning": "想；思考",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:work",
+    "word": "work",
+    "meaning": "（花费时间和精力）做（某事） ；工作",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:hard",
+    "word": "hard",
+    "meaning": "努力地；费力地",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:follow",
+    "word": "follow",
+    "meaning": "遵循, 听从（忠告、指示等）",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u2:feel",
+    "word": "feel",
+    "meaning": "觉得；感到",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:over",
+    "word": "over",
+    "meaning": "结束(的)",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:kid",
+    "word": "kid",
+    "meaning": "小孩",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:dinner",
+    "word": "dinner",
+    "meaning": "（中午或晚上吃的） 正餐",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:art",
+    "word": "art",
+    "meaning": "美术；艺术",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:lunch",
+    "word": "lunch",
+    "meaning": "午餐",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:maths",
+    "word": "maths",
+    "meaning": "数学",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:get up",
+    "word": "get up",
+    "meaning": "起床",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:go to school",
+    "word": "go to school",
+    "meaning": "上学",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:go home",
+    "word": "go home",
+    "meaning": "回家",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:go to bed",
+    "word": "go to bed",
+    "meaning": "上床睡觉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:want",
+    "word": "want",
+    "meaning": "想要",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:clock",
+    "word": "clock",
+    "meaning": "时钟",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:just",
+    "word": "just",
+    "meaning": "只是；仅仅；正要",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u3:minute",
+    "word": "minute",
+    "meaning": "分钟",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:trousers",
+    "word": "trousers",
+    "meaning": "裤子",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:pair",
+    "word": "pair",
+    "meaning": "（由连在一起的相似两部分构成的） 一条, 一副",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:clothes",
+    "word": "clothes",
+    "meaning": "衣服；服装",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:those",
+    "word": "those",
+    "meaning": "（指较远的人或事物） 那些",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:shorts",
+    "word": "shorts",
+    "meaning": "短裤",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:jacket",
+    "word": "jacket",
+    "meaning": "夹克衫；短上衣",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:skirt",
+    "word": "skirt",
+    "meaning": "裙子",
+    "existing": "outputs/PEP二下森林卡绘/网页图/skirt.webp"
+  },
+  {
+    "key": "pep-g4-s2:u4:dear",
+    "word": "dear",
+    "meaning": "亲爱的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:expensive",
+    "word": "expensive",
+    "meaning": "昂贵的；价格高的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:take",
+    "word": "take",
+    "meaning": "买下",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:cheap",
+    "word": "cheap",
+    "meaning": "便宜的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:shoe",
+    "word": "shoe",
+    "meaning": "鞋",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:beautiful",
+    "word": "beautiful",
+    "meaning": "美丽的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:hat",
+    "word": "hat",
+    "meaning": "帽子",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:sunglasses",
+    "word": "sunglasses",
+    "meaning": "太阳镜；墨镜",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:free",
+    "word": "free",
+    "meaning": "免费的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:large",
+    "word": "large",
+    "meaning": "（服装、食物、日用品等）大型号的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:size",
+    "word": "size",
+    "meaning": "尺码；号",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:list",
+    "word": "list",
+    "meaning": "清单；目录",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:try on",
+    "word": "try on",
+    "meaning": "试穿",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u4:any",
+    "word": "any",
+    "meaning": "任何的；任一的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:cow",
+    "word": "cow",
+    "meaning": "奶牛",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:horse",
+    "word": "horse",
+    "meaning": "马",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:sheep",
+    "word": "sheep",
+    "meaning": "羊；绵羊",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:pig",
+    "word": "pig",
+    "meaning": "猪",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:chicken",
+    "word": "chicken",
+    "meaning": "鸡；鸡肉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:tomato",
+    "word": "tomato",
+    "meaning": "西红柿",
+    "existing": "outputs/PEP一下森林卡绘/网页图/tomato.webp"
+  },
+  {
+    "key": "pep-g4-s2:u5:bee",
+    "word": "bee",
+    "meaning": "蜜蜂",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:mouse",
+    "word": "mouse",
+    "meaning": "老鼠",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:carrot",
+    "word": "carrot",
+    "meaning": "胡萝卜",
+    "existing": "outputs/PEP一下森林卡绘/网页图/carrot.webp"
+  },
+  {
+    "key": "pep-g4-s2:u5:potato",
+    "word": "potato",
+    "meaning": "土豆",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:green bean",
+    "word": "green bean",
+    "meaning": "青刀豆；四季豆",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:can",
+    "word": "can",
+    "meaning": "（盛食品或饮料的）金属罐",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u5:a box of",
+    "word": "a box of",
+    "meaning": "一盒；一箱（东西）",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:feed",
+    "word": "feed",
+    "meaning": "给（人或动物）食物；饲养",
+    "existing": "outputs/PEP二上森林卡绘/网页图/feed.webp"
+  },
+  {
+    "key": "pep-g4-s2:u6:pass",
+    "word": "pass",
+    "meaning": "给；递",
+    "existing": "outputs/PEP二下森林卡绘/网页图/pass.webp"
+  },
+  {
+    "key": "pep-g4-s2:u6:pick",
+    "word": "pick",
+    "meaning": "采；摘",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:milk",
+    "word": "milk",
+    "meaning": "挤奶",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:knife",
+    "word": "knife",
+    "meaning": "刀",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:fork",
+    "word": "fork",
+    "meaning": "餐叉",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:chopstick",
+    "word": "chopstick",
+    "meaning": "筷子",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:waste",
+    "word": "waste",
+    "meaning": "浪费；废品",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:food",
+    "word": "food",
+    "meaning": "菜肴；食物",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:delicious",
+    "word": "delicious",
+    "meaning": "美味的；可口的",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:clear the table",
+    "word": "clear the table",
+    "meaning": "收拾餐桌",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:set the table",
+    "word": "set the table",
+    "meaning": "摆放餐具",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:bowl",
+    "word": "bowl",
+    "meaning": "碗",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:spoon",
+    "word": "spoon",
+    "meaning": "勺；匙；调羹",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:supermarket",
+    "word": "supermarket",
+    "meaning": "超市",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:herself",
+    "word": "herself",
+    "meaning": "她自己",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:week",
+    "word": "week",
+    "meaning": "周；星期",
+    "existing": null
+  },
+  {
+    "key": "pep-g4-s2:u6:salad",
+    "word": "salad",
+    "meaning": "蔬菜沙拉",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:team",
+    "word": "team",
+    "meaning": "（游戏或运动的）队；（一起工作的）组，班",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:player",
+    "word": "player",
+    "meaning": "运动员；参赛选手",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:him",
+    "word": "him",
+    "meaning": "他",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:lovely",
+    "word": "lovely",
+    "meaning": "美丽的；优美的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:clever",
+    "word": "clever",
+    "meaning": "聪明的；聪颖的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:young",
+    "word": "young",
+    "meaning": "幼小的；年轻的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:hard-working",
+    "word": "hard-working",
+    "meaning": "工作努力的；辛勤的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:science",
+    "word": "science",
+    "meaning": "科学；自然科学",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:robot",
+    "word": "robot",
+    "meaning": "机器人",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:jump",
+    "word": "jump",
+    "meaning": "跳；跃",
+    "existing": "outputs/PEP二下森林卡绘/网页图/jump.webp"
+  },
+  {
+    "key": "pep-g5-s1:u1:rope",
+    "word": "rope",
+    "meaning": "绳；粗绳",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:piano",
+    "word": "piano",
+    "meaning": "钢琴",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:chess",
+    "word": "chess",
+    "meaning": "国际象棋",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:front",
+    "word": "front",
+    "meaning": "前部",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:easy",
+    "word": "easy",
+    "meaning": "容易的；轻易的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:star",
+    "word": "star",
+    "meaning": "歌唱（或表演）明星",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:wonderful",
+    "word": "wonderful",
+    "meaning": "令人赞叹的；精彩的；绝妙的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u1:Australia",
+    "word": "Australia",
+    "meaning": "澳大利亚",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:sad",
+    "word": "sad",
+    "meaning": "悲哀的；难过的",
+    "existing": "outputs/PEP二上森林卡绘/网页图/sad.webp"
+  },
+  {
+    "key": "pep-g5-s1:u2:matter",
+    "word": "matter",
+    "meaning": "事情；问题",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:project",
+    "word": "project",
+    "meaning": "项目；方案",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:centre",
+    "word": "centre",
+    "meaning": "中心",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:agree",
+    "word": "agree",
+    "meaning": "同意；赞成",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:finish",
+    "word": "finish",
+    "meaning": "完成；做好",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:worried",
+    "word": "worried",
+    "meaning": "担心的；担忧的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:both",
+    "word": "both",
+    "meaning": "两者",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:excited",
+    "word": "excited",
+    "meaning": "激动的；兴奋的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:wrong",
+    "word": "wrong",
+    "meaning": "错误的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:angry",
+    "word": "angry",
+    "meaning": "愤怒的；生气的",
+    "existing": "outputs/PEP二上森林卡绘/网页图/angry.webp"
+  },
+  {
+    "key": "pep-g5-s1:u2:afraid",
+    "word": "afraid",
+    "meaning": "担心；害怕",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:parent",
+    "word": "parent",
+    "meaning": "父亲；母亲",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:ask",
+    "word": "ask",
+    "meaning": "问；询问",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:laugh",
+    "word": "laugh",
+    "meaning": "笑",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:move",
+    "word": "move",
+    "meaning": "搬家；移动",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u2:yours",
+    "word": "yours",
+    "meaning": "您的（用于书信结尾的签名前）",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Wednesday",
+    "word": "Wednesday",
+    "meaning": "星期三",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:subject",
+    "word": "subject",
+    "meaning": "科目；学科",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Tuesday",
+    "word": "Tuesday",
+    "meaning": "星期二",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Friday",
+    "word": "Friday",
+    "meaning": "星期五",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:because",
+    "word": "because",
+    "meaning": "因为",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Monday",
+    "word": "Monday",
+    "meaning": "星期一",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Thursday",
+    "word": "Thursday",
+    "meaning": "星期四",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:start",
+    "word": "start",
+    "meaning": "开始",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:usually",
+    "word": "usually",
+    "meaning": "通常地；经常地",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:weekend",
+    "word": "weekend",
+    "meaning": "周末",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:sometimes",
+    "word": "sometimes",
+    "meaning": "有时；间或",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Saturday",
+    "word": "Saturday",
+    "meaning": "星期六",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:Sunday",
+    "word": "Sunday",
+    "meaning": "星期日",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:lesson",
+    "word": "lesson",
+    "meaning": "课；一节课",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:evening",
+    "word": "evening",
+    "meaning": "晚上；傍晚",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:answer",
+    "word": "answer",
+    "meaning": "答复；回答",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:ping-pong",
+    "word": "ping-pong",
+    "meaning": "乒乓球",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:night",
+    "word": "night",
+    "meaning": "夜；夜晚",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:visit",
+    "word": "visit",
+    "meaning": "看望；拜访；参观",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u3:grandparent",
+    "word": "grandparent",
+    "meaning": "祖父；祖母；外祖父；外祖母",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:stay",
+    "word": "stay",
+    "meaning": "待；保持；继续是",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:should",
+    "word": "should",
+    "meaning": "（提出或征询建议）该，可以",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:flu",
+    "word": "flu",
+    "meaning": "流行性感冒；流感",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:else",
+    "word": "else",
+    "meaning": "其他的；别的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:exercise",
+    "word": "exercise",
+    "meaning": "锻炼；训练；操练",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:enough",
+    "word": "enough",
+    "meaning": "足够的；充足的；充分的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:if",
+    "word": "if",
+    "meaning": "如果；假若；倘若",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:habit",
+    "word": "habit",
+    "meaning": "习惯",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:house",
+    "word": "house",
+    "meaning": "房子",
+    "existing": "outputs/PEP二下森林卡绘/网页图/house.webp"
+  },
+  {
+    "key": "pep-g5-s1:u4:show",
+    "word": "show",
+    "meaning": "（电视或广播）节目",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:phone",
+    "word": "phone",
+    "meaning": "电话；电话机",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:then",
+    "word": "then",
+    "meaning": "那么；因此；既然如此",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:rest",
+    "word": "rest",
+    "meaning": "休息；放松",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:take care of",
+    "word": "take care of",
+    "meaning": "爱护；照顾",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:check",
+    "word": "check",
+    "meaning": "查看；查明",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:less",
+    "word": "less",
+    "meaning": "（与不可数名词连用）较少的，更少的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:brush",
+    "word": "brush",
+    "meaning": "（用刷子）刷净，刷亮，刷平顺",
+    "existing": "outputs/PEP一下森林卡绘/网页图/brush.webp"
+  },
+  {
+    "key": "pep-g5-s1:u4:tooth",
+    "word": "tooth",
+    "meaning": "（复数 teeth）牙；齿",
+    "existing": "outputs/PEP一下森林卡绘/网页图/tooth.webp"
+  },
+  {
+    "key": "pep-g5-s1:u4:twice",
+    "word": "twice",
+    "meaning": "两次；两遍",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:hour",
+    "word": "hour",
+    "meaning": "小时",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u4:free",
+    "word": "free",
+    "meaning": "没有安排活动的；空闲的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:hungry",
+    "word": "hungry",
+    "meaning": "感到饿的",
+    "existing": "outputs/PEP二上森林卡绘/网页图/hungry.webp"
+  },
+  {
+    "key": "pep-g5-s1:u5:beef",
+    "word": "beef",
+    "meaning": "牛肉",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:ice cream",
+    "word": "ice cream",
+    "meaning": "（一份）冰激凌",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:little",
+    "word": "little",
+    "meaning": "少许；一点",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:dumpling",
+    "word": "dumpling",
+    "meaning": "饺子；汤圆",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:tea",
+    "word": "tea",
+    "meaning": "茶叶；茶；茶水",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:hamburger",
+    "word": "hamburger",
+    "meaning": "汉堡包；汉堡牛肉饼",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:Mrs",
+    "word": "Mrs",
+    "meaning": "（用于女子的姓氏或姓名前）太太，夫人",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:coconut",
+    "word": "coconut",
+    "meaning": "椰子",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:interesting",
+    "word": "interesting",
+    "meaning": "有趣的；有吸引力的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:seed",
+    "word": "seed",
+    "meaning": "种子；籽",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:pull",
+    "word": "pull",
+    "meaning": "拔出；抽出",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:stem",
+    "word": "stem",
+    "meaning": "（花草的）茎；（花或叶的）梗，柄",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:root",
+    "word": "root",
+    "meaning": "根；根茎",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:lotus",
+    "word": "lotus",
+    "meaning": "莲属植物",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:lake",
+    "word": "lake",
+    "meaning": "湖；湖泊",
+    "existing": "outputs/PEP二下森林卡绘/网页图/lake.webp"
+  },
+  {
+    "key": "pep-g5-s1:u5:world",
+    "word": "world",
+    "meaning": "世界；地球；天下",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:round",
+    "word": "round",
+    "meaning": "圆形的；环形的；球形的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:different",
+    "word": "different",
+    "meaning": "不同的；有区别的；有差异的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u5:way",
+    "word": "way",
+    "meaning": "方法；手段；途径；方式",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:river",
+    "word": "river",
+    "meaning": "河；江",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:nature",
+    "word": "nature",
+    "meaning": "自然界；大自然",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:waterfall",
+    "word": "waterfall",
+    "meaning": "瀑布",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:forest",
+    "word": "forest",
+    "meaning": "森林；林区",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:famous",
+    "word": "famous",
+    "meaning": "著名的；出名的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:mountain",
+    "word": "mountain",
+    "meaning": "高山；山岳",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:wind",
+    "word": "wind",
+    "meaning": "风；气流",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:trip",
+    "word": "trip",
+    "meaning": "（尤指短程往返的）旅行，旅游，出行",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:dangerous",
+    "word": "dangerous",
+    "meaning": "有危险的；不安全的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:heavy",
+    "word": "heavy",
+    "meaning": "程度大的；严重的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:hotel",
+    "word": "hotel",
+    "meaning": "旅馆；旅社",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:close",
+    "word": "close",
+    "meaning": "关；关闭；闭上",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:umbrella",
+    "word": "umbrella",
+    "meaning": "伞；雨伞",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:raincoat",
+    "word": "raincoat",
+    "meaning": "雨衣",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:worry",
+    "word": "worry",
+    "meaning": "担心；担忧；发愁",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:fine",
+    "word": "fine",
+    "meaning": "晴朗的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:fog",
+    "word": "fog",
+    "meaning": "雾",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:flood",
+    "word": "flood",
+    "meaning": "洪水；水灾",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:fire",
+    "word": "fire",
+    "meaning": "火；火灾",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:know",
+    "word": "know",
+    "meaning": "知道；了解",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:before",
+    "word": "before",
+    "meaning": "在……之前",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:go hiking",
+    "word": "go hiking",
+    "meaning": "徒步旅行",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s1:u6:bring",
+    "word": "bring",
+    "meaning": "带……到某处；带来；取来",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:must",
+    "word": "must",
+    "meaning": "必须",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:sir",
+    "word": "sir",
+    "meaning": "先生",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:inside",
+    "word": "inside",
+    "meaning": "在⋯⋯里",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:scare",
+    "word": "scare",
+    "meaning": "惊吓；使害怕",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:password",
+    "word": "password",
+    "meaning": "密码",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:line",
+    "word": "line",
+    "meaning": "队伍；行列；线条",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:wait",
+    "word": "wait",
+    "meaning": "等待；等候",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:guard",
+    "word": "guard",
+    "meaning": "门卫；看守",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:stand",
+    "word": "stand",
+    "meaning": "站立；立",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:shout",
+    "word": "shout",
+    "meaning": "大声说；叫",
+    "existing": "outputs/PEP二下森林卡绘/网页图/shout.webp"
+  },
+  {
+    "key": "pep-g5-s2:u1:smoke",
+    "word": "smoke",
+    "meaning": "吸(烟)",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:flash",
+    "word": "flash",
+    "meaning": "闪光灯",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:open",
+    "word": "open",
+    "meaning": "开放；打开",
+    "existing": "outputs/PEP一上森林卡绘/网页图/open.webp"
+  },
+  {
+    "key": "pep-g5-s2:u1:return",
+    "word": "return",
+    "meaning": "归还；回去；返回",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:borrow",
+    "word": "borrow",
+    "meaning": "借；借用",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u1:write",
+    "word": "write",
+    "meaning": "书写；写字",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:along",
+    "word": "along",
+    "meaning": "沿着；顺着",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:street",
+    "word": "street",
+    "meaning": "大街；街道",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:station",
+    "word": "station",
+    "meaning": "局；所；站",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:next",
+    "word": "next",
+    "meaning": "紧邻；紧接着",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:far",
+    "word": "far",
+    "meaning": "远的；较远的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:cinema",
+    "word": "cinema",
+    "meaning": "电影院",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:between",
+    "word": "between",
+    "meaning": "在⋯⋯中间；介于⋯⋯之间",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:city",
+    "word": "city",
+    "meaning": "都市；城市",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:behind",
+    "word": "behind",
+    "meaning": "在⋯⋯的后面",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:left",
+    "word": "left",
+    "meaning": "向左；左边",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:teach",
+    "word": "teach",
+    "meaning": "教(课程) ；讲授",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:litter",
+    "word": "litter",
+    "meaning": "垃圾；废弃物",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:recycle",
+    "word": "recycle",
+    "meaning": "回收利用；再利用",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:taxi",
+    "word": "taxi",
+    "meaning": "出租汽车；计程车",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:traffic",
+    "word": "traffic",
+    "meaning": "交通",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:direct",
+    "word": "direct",
+    "meaning": "给(某人) 指路；指挥",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:artist",
+    "word": "artist",
+    "meaning": "艺术家；画家",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:Ms",
+    "word": "Ms",
+    "meaning": "(用于女子的姓氏或姓名前, 不指明婚否) 女士",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:scientist",
+    "word": "scientist",
+    "meaning": "科学家",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:volunteer",
+    "word": "volunteer",
+    "meaning": "志愿者",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:live",
+    "word": "live",
+    "meaning": "住；居住",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:train",
+    "word": "train",
+    "meaning": "火车；列车",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:lost",
+    "word": "lost",
+    "meaning": "迷路的；迷失的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:sign",
+    "word": "sign",
+    "meaning": "指示牌；标志",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:note",
+    "word": "note",
+    "meaning": "笔记；便条",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:foreign",
+    "word": "foreign",
+    "meaning": "外国的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u2:visitor",
+    "word": "visitor",
+    "meaning": "游客；参观者",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:January",
+    "word": "January",
+    "meaning": "一月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:February",
+    "word": "February",
+    "meaning": "二月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:skate",
+    "word": "skate",
+    "meaning": "滑冰；溜冰",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:holiday",
+    "word": "holiday",
+    "meaning": "假期",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:March",
+    "word": "March",
+    "meaning": "三月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:April",
+    "word": "April",
+    "meaning": "四月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:May",
+    "word": "May",
+    "meaning": "五月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:June",
+    "word": "June",
+    "meaning": "六月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:party",
+    "word": "party",
+    "meaning": "联欢会；聚会",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:celebrate",
+    "word": "celebrate",
+    "meaning": "庆祝；庆贺",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:December",
+    "word": "December",
+    "meaning": "十二月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:Christmas",
+    "word": "Christmas",
+    "meaning": "圣诞节",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:turkey",
+    "word": "turkey",
+    "meaning": "火鸡",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:July",
+    "word": "July",
+    "meaning": "七月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:August",
+    "word": "August",
+    "meaning": "八月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:September",
+    "word": "September",
+    "meaning": "九月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:October",
+    "word": "October",
+    "meaning": "十月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:November",
+    "word": "November",
+    "meaning": "十一月",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:country",
+    "word": "country",
+    "meaning": "国；国家",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:sit",
+    "word": "sit",
+    "meaning": "坐",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:beside",
+    "word": "beside",
+    "meaning": "在旁边；在附近",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:west",
+    "word": "west",
+    "meaning": "西；西方",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:cup",
+    "word": "cup",
+    "meaning": "一杯(的量) ；杯子",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:sunshine",
+    "word": "sunshine",
+    "meaning": "阳光；日光",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:catch",
+    "word": "catch",
+    "meaning": "捕捉；接住",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:ago",
+    "word": "ago",
+    "meaning": "以前",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:ice",
+    "word": "ice",
+    "meaning": "冰；冰块；冰场",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:Labour Day",
+    "word": "Labour Day",
+    "meaning": "劳动节",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:Dragon Boat Festival",
+    "word": "Dragon Boat Festival",
+    "meaning": "端午节",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:CPC Founding Day",
+    "word": "CPC Founding Day",
+    "meaning": "中国共产党建党日",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:PLA Day",
+    "word": "PLA Day",
+    "meaning": "中国人民解放军建军节",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u3:National Day",
+    "word": "National Day",
+    "meaning": "国庆节",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:hometown",
+    "word": "hometown",
+    "meaning": "家乡；故乡",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:its",
+    "word": "its",
+    "meaning": "它的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:common",
+    "word": "common",
+    "meaning": "共同的；共有的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:beach",
+    "word": "beach",
+    "meaning": "海滩；沙滩",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:desert",
+    "word": "desert",
+    "meaning": "沙漠；荒漠",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:grassland",
+    "word": "grassland",
+    "meaning": "草原；草地",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:special",
+    "word": "special",
+    "meaning": "特别的；特殊的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:wild",
+    "word": "wild",
+    "meaning": "野生的；自然生长的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:kangaroo",
+    "word": "kangaroo",
+    "meaning": "袋鼠",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:koala",
+    "word": "koala",
+    "meaning": "考拉",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:wish",
+    "word": "wish",
+    "meaning": "希望（做某事）",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:could",
+    "word": "could",
+    "meaning": "可以；可能",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:high",
+    "word": "high",
+    "meaning": "高的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:island",
+    "word": "island",
+    "meaning": "岛；岛屿",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:travel",
+    "word": "travel",
+    "meaning": "旅行；长途行走",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:feel like",
+    "word": "feel like",
+    "meaning": "感觉像是……",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:middle",
+    "word": "middle",
+    "meaning": "中间；中央",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:painting",
+    "word": "painting",
+    "meaning": "油画；绘画",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:pyramid",
+    "word": "pyramid",
+    "meaning": "（古埃及的）金字塔",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:ride",
+    "word": "ride",
+    "meaning": "骑；驾驶",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:camel",
+    "word": "camel",
+    "meaning": "骆驼",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:even",
+    "word": "even",
+    "meaning": "甚至；连；即使",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Confucius",
+    "word": "Confucius",
+    "meaning": "孔子",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Beijing opera",
+    "word": "Beijing opera",
+    "meaning": "京剧",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Mount Taishan",
+    "word": "Mount Taishan",
+    "meaning": "泰山",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:India",
+    "word": "India",
+    "meaning": "印度",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Italy",
+    "word": "Italy",
+    "meaning": "意大利",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Britain",
+    "word": "Britain",
+    "meaning": "不列颠",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Cairo",
+    "word": "Cairo",
+    "meaning": "开罗",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u4:Hawaii",
+    "word": "Hawaii",
+    "meaning": "夏威夷",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:early",
+    "word": "early",
+    "meaning": "早到的；提前的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:underground",
+    "word": "underground",
+    "meaning": "地铁",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:bike",
+    "word": "bike",
+    "meaning": "自行车；脚踏车",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:foot",
+    "word": "foot",
+    "meaning": "脚；足",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:on foot",
+    "word": "on foot",
+    "meaning": "步行",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:plane",
+    "word": "plane",
+    "meaning": "飞机",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:ship",
+    "word": "ship",
+    "meaning": "（大）船；舰",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:hurt",
+    "word": "hurt",
+    "meaning": "对……有不良影响；（使）疼痛；受伤",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:environment",
+    "word": "environment",
+    "meaning": "自然环境",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:tip",
+    "word": "tip",
+    "meaning": "实用的提示；指点",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:health",
+    "word": "health",
+    "meaning": "健康",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:carry",
+    "word": "carry",
+    "meaning": "运送；承载",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:finally",
+    "word": "finally",
+    "meaning": "最后；终于",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:suggest",
+    "word": "suggest",
+    "meaning": "建议；提议",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u5:everyday",
+    "word": "everyday",
+    "meaning": "每天的；日常的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:internet",
+    "word": "internet",
+    "meaning": "互联网；因特网",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:seafood",
+    "word": "seafood",
+    "meaning": "海鲜",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:maybe",
+    "word": "maybe",
+    "meaning": "（不确定）大概；或许；可能",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:join",
+    "word": "join",
+    "meaning": "参与；加入",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:hill",
+    "word": "hill",
+    "meaning": "山丘；小山",
+    "existing": "outputs/PEP二下森林卡绘/网页图/hill.webp"
+  },
+  {
+    "key": "pep-g5-s2:u6:explore",
+    "word": "explore",
+    "meaning": "探索",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:culture",
+    "word": "culture",
+    "meaning": "文化；文明",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:hot pot",
+    "word": "hot pot",
+    "meaning": "火锅",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:tour",
+    "word": "tour",
+    "meaning": "旅行；旅游",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:local",
+    "word": "local",
+    "meaning": "当地的；本地的",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:history",
+    "word": "history",
+    "meaning": "历史",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:plan",
+    "word": "plan",
+    "meaning": "计划；打算",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:app",
+    "word": "app",
+    "meaning": "应用软件",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:information",
+    "word": "information",
+    "meaning": "信息；消息",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:blog",
+    "word": "blog",
+    "meaning": "博客",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:magazine",
+    "word": "magazine",
+    "meaning": "杂志；期刊",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:northeast",
+    "word": "northeast",
+    "meaning": "东北；东北方",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:building",
+    "word": "building",
+    "meaning": "建筑物；房子",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:palace",
+    "word": "palace",
+    "meaning": "王宫；宫殿",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:stone",
+    "word": "stone",
+    "meaning": "石头；岩石",
+    "existing": null
+  },
+  {
+    "key": "pep-g5-s2:u6:last",
+    "word": "last",
+    "meaning": "最后的；末尾的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:was",
+    "word": "was",
+    "meaning": "（be的第一和第三人称单数过去式）",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:climb",
+    "word": "climb",
+    "meaning": "攀登；爬",
+    "existing": "outputs/PEP二下森林卡绘/网页图/climb.webp"
+  },
+  {
+    "key": "pep-g6-s1:u1:kilometre",
+    "word": "kilometre",
+    "meaning": "千米；公里",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:gingerbread house",
+    "word": "gingerbread house",
+    "meaning": "姜饼屋",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:send",
+    "word": "send",
+    "meaning": "邮寄；发送",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:go",
+    "word": "go",
+    "meaning": "去；走",
+    "existing": "outputs/PEP三上森林卡绘/网页图/u3-go.webp"
+  },
+  {
+    "key": "pep-g6-s1:u1:thousand",
+    "word": "thousand",
+    "meaning": "一千",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:clay",
+    "word": "clay",
+    "meaning": "黏土；陶土",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:see",
+    "word": "see",
+    "meaning": "看见",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:village",
+    "word": "village",
+    "meaning": "村庄；村镇",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:eat",
+    "word": "eat",
+    "meaning": "吃",
+    "existing": "outputs/PEP三上森林卡绘/网页图/u6-eat.webp"
+  },
+  {
+    "key": "pep-g6-s1:u1:dry",
+    "word": "dry",
+    "meaning": "干的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:take",
+    "word": "take",
+    "meaning": "做（某个动作；和名词连用代替某个动词）",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:view",
+    "word": "view",
+    "meaning": "景色",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:inspiring",
+    "word": "inspiring",
+    "meaning": "鼓舞人心的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:bamboo",
+    "word": "bamboo",
+    "meaning": "竹；竹子",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:pumpkin",
+    "word": "pumpkin",
+    "meaning": "南瓜",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:restaurant",
+    "word": "restaurant",
+    "meaning": "餐馆；餐厅",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:airport",
+    "word": "airport",
+    "meaning": "机场",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:New Zealand",
+    "word": "New Zealand",
+    "meaning": "新西兰",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:Hong Kong-Zhuhai-Macao Bridge",
+    "word": "Hong Kong-Zhuhai-Macao Bridge",
+    "meaning": "港珠澳大桥",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:Paris",
+    "word": "Paris",
+    "meaning": "巴黎",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:Eiffel Tower",
+    "word": "Eiffel Tower",
+    "meaning": "埃菲尔铁塔",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:Terracotta Warriors",
+    "word": "Terracotta Warriors",
+    "meaning": "兵马俑",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:Jinggangshan Revolution Museum",
+    "word": "Jinggangshan Revolution Museum",
+    "meaning": "井冈山革命博物馆",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u1:the Red Army",
+    "word": "the Red Army",
+    "meaning": "红军",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:paste",
+    "word": "paste",
+    "meaning": "粘贴",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:dress",
+    "word": "dress",
+    "meaning": "穿衣服",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:gala",
+    "word": "gala",
+    "meaning": "演出；庆典",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:count down",
+    "word": "count down",
+    "meaning": "倒计时",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:marathon",
+    "word": "marathon",
+    "meaning": "马拉松赛跑",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:as",
+    "word": "as",
+    "meaning": "作为",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:race",
+    "word": "race",
+    "meaning": "赛跑；速度竞赛",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:run",
+    "word": "run",
+    "meaning": "跑；奔跑",
+    "existing": "outputs/PEP一下森林卡绘/网页图/run.webp"
+  },
+  {
+    "key": "pep-g6-s1:u2:cheer",
+    "word": "cheer",
+    "meaning": "欢呼；加油",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:book fair",
+    "word": "book fair",
+    "meaning": "书市",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:writer",
+    "word": "writer",
+    "meaning": "作家；作者",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:read",
+    "word": "read",
+    "meaning": "阅读",
+    "existing": "outputs/PEP一上森林卡绘/网页图/read.webp"
+  },
+  {
+    "key": "pep-g6-s1:u2:make",
+    "word": "make",
+    "meaning": "做；使出现",
+    "existing": "outputs/PEP三上森林卡绘/网页图/u5-make.webp"
+  },
+  {
+    "key": "pep-g6-s1:u2:sing",
+    "word": "sing",
+    "meaning": "唱（歌）；演唱",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:wear",
+    "word": "wear",
+    "meaning": "穿；戴",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:yesterday",
+    "word": "yesterday",
+    "meaning": "昨天",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:notice",
+    "word": "notice",
+    "meaning": "通知",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:wake",
+    "word": "wake",
+    "meaning": "醒；醒来",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:later",
+    "word": "later",
+    "meaning": "随后；后来",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:judge",
+    "word": "judge",
+    "meaning": "裁判",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:begin",
+    "word": "begin",
+    "meaning": "开始",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:win",
+    "word": "win",
+    "meaning": "获胜",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:winner",
+    "word": "winner",
+    "meaning": "获胜的人（或队）；成功者",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:ever",
+    "word": "ever",
+    "meaning": "（进行比较时用于加强语气）以往任何时候",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u2:exciting",
+    "word": "exciting",
+    "meaning": "令人激动的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:cold",
+    "word": "cold",
+    "meaning": "感冒",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:ill",
+    "word": "ill",
+    "meaning": "不舒服；生病的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:head",
+    "word": "head",
+    "meaning": "头；头部",
+    "existing": "outputs/PEP二下森林卡绘/网页图/head.webp"
+  },
+  {
+    "key": "pep-g6-s1:u3:runny nose",
+    "word": "runny nose",
+    "meaning": "流鼻涕",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:soon",
+    "word": "soon",
+    "meaning": "很快；马上",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:fever",
+    "word": "fever",
+    "meaning": "发烧；发热",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:cough",
+    "word": "cough",
+    "meaning": "咳嗽",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:discuss",
+    "word": "discuss",
+    "meaning": "讨论；商量",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:diet",
+    "word": "diet",
+    "meaning": "日常饮食",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:stay up",
+    "word": "stay up",
+    "meaning": "熬夜",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:cry",
+    "word": "cry",
+    "meaning": "哭；哭泣",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:another",
+    "word": "another",
+    "meaning": "另一；不同的（人或事物）",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:call",
+    "word": "call",
+    "meaning": "（给⋯⋯）打电话",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:email",
+    "word": "email",
+    "meaning": "电子邮件",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:unhappy",
+    "word": "unhappy",
+    "meaning": "不快乐的；难过的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:glass",
+    "word": "glass",
+    "meaning": "一杯（的量）；玻璃",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:may",
+    "word": "may",
+    "meaning": "也许；可能",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:add",
+    "word": "add",
+    "meaning": "补充说；增加",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:video",
+    "word": "video",
+    "meaning": "视频；录像",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u3:better",
+    "word": "better",
+    "meaning": "舒畅些的；（病势）好转的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:money",
+    "word": "money",
+    "meaning": "钱",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:pocket money",
+    "word": "pocket money",
+    "meaning": "零花钱",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:schoolbag",
+    "word": "schoolbag",
+    "meaning": "书包",
+    "existing": "outputs/神秘森林一年级上52图/网页图/schoolbag.webp"
+  },
+  {
+    "key": "pep-g6-s1:u4:goods",
+    "word": "goods",
+    "meaning": "商品",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:drink",
+    "word": "drink",
+    "meaning": "饮料",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:service",
+    "word": "service",
+    "meaning": "服务",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:haircut",
+    "word": "haircut",
+    "meaning": "理发；发型",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:microscope",
+    "word": "microscope",
+    "meaning": "显微镜",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:lucky",
+    "word": "lucky",
+    "meaning": "幸运的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:half",
+    "word": "half",
+    "meaning": "一半",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:save up",
+    "word": "save up",
+    "meaning": "攒钱",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:sale",
+    "word": "sale",
+    "meaning": "特价销售；出售",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:ticket",
+    "word": "ticket",
+    "meaning": "票",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:manage",
+    "word": "manage",
+    "meaning": "管理",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:sell",
+    "word": "sell",
+    "meaning": "出售；售卖",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:jar",
+    "word": "jar",
+    "meaning": "罐子",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u4:for example",
+    "word": "for example",
+    "meaning": "例如",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:planet",
+    "word": "planet",
+    "meaning": "行星",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:earth",
+    "word": "earth",
+    "meaning": "地球",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:sky",
+    "word": "sky",
+    "meaning": "天；天空",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:daytime",
+    "word": "daytime",
+    "meaning": "白天",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:cloud",
+    "word": "cloud",
+    "meaning": "云",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:moon",
+    "word": "moon",
+    "meaning": "月球；月亮；卫星",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:star",
+    "word": "star",
+    "meaning": "恒星；星",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:space",
+    "word": "space",
+    "meaning": "太空；空间",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:outer space",
+    "word": "outer space",
+    "meaning": "外层空间；外太空",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:space station",
+    "word": "space station",
+    "meaning": "空间站",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:ocean",
+    "word": "ocean",
+    "meaning": "大海；海洋",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:marble",
+    "word": "marble",
+    "meaning": "玻璃弹子",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:satellite",
+    "word": "satellite",
+    "meaning": "人造卫星",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:soil",
+    "word": "soil",
+    "meaning": "土壤",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:alien",
+    "word": "alien",
+    "meaning": "外星生物",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:sunrise",
+    "word": "sunrise",
+    "meaning": "日出",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:rover",
+    "word": "rover",
+    "meaning": "探测器",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:into",
+    "word": "into",
+    "meaning": "朝；进入",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:telescope",
+    "word": "telescope",
+    "meaning": "望远镜",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:astronaut",
+    "word": "astronaut",
+    "meaning": "宇航员；航天员",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:spaceship",
+    "word": "spaceship",
+    "meaning": "宇宙飞船",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:month",
+    "word": "month",
+    "meaning": "月；月份",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:taikonaut",
+    "word": "taikonaut",
+    "meaning": "中国航天员",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:cloth",
+    "word": "cloth",
+    "meaning": "一块布；织物",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:toothpaste",
+    "word": "toothpaste",
+    "meaning": "牙膏",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:question",
+    "word": "question",
+    "meaning": "问题",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:sunset",
+    "word": "sunset",
+    "meaning": "日落",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:time",
+    "word": "time",
+    "meaning": "次；回",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u5:Mars",
+    "word": "Mars",
+    "meaning": "火星",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:power",
+    "word": "power",
+    "meaning": "能；能量",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:electricity",
+    "word": "electricity",
+    "meaning": "电",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:solar",
+    "word": "solar",
+    "meaning": "太阳的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:type",
+    "word": "type",
+    "meaning": "类型；种类",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:energy",
+    "word": "energy",
+    "meaning": "能源",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:light",
+    "word": "light",
+    "meaning": "照亮",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:heat",
+    "word": "heat",
+    "meaning": "加热；使变暖；热量",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:cool",
+    "word": "cool",
+    "meaning": "使变凉；冷却",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:run",
+    "word": "run",
+    "meaning": "使运行",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:resource",
+    "word": "resource",
+    "meaning": "资源",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:run out",
+    "word": "run out",
+    "meaning": "用完",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:change",
+    "word": "change",
+    "meaning": "使不同；改变",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:quick",
+    "word": "quick",
+    "meaning": "迅速的；快的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:shower",
+    "word": "shower",
+    "meaning": "淋浴",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:unplug",
+    "word": "unplug",
+    "meaning": "拔掉……的电源插头",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:difference",
+    "word": "difference",
+    "meaning": "差别；不同之处",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:reduce",
+    "word": "reduce",
+    "meaning": "减少",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:air conditioner",
+    "word": "air conditioner",
+    "meaning": "空调机",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:drive",
+    "word": "drive",
+    "meaning": "驾驶；开车",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:reuse",
+    "word": "reuse",
+    "meaning": "再次使用；重复使用",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:own",
+    "word": "own",
+    "meaning": "自己的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:market",
+    "word": "market",
+    "meaning": "集市；市场",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:bottle",
+    "word": "bottle",
+    "meaning": "瓶子",
+    "existing": "outputs/PEP一上森林卡绘/网页图/bottle.webp"
+  },
+  {
+    "key": "pep-g6-s1:u6:top",
+    "word": "top",
+    "meaning": "顶部；最高的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:useful",
+    "word": "useful",
+    "meaning": "有用的；有益的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:dirty",
+    "word": "dirty",
+    "meaning": "脏的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s1:u6:side",
+    "word": "side",
+    "meaning": "一面；一边",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:camp",
+    "word": "camp",
+    "meaning": "营地",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:language",
+    "word": "language",
+    "meaning": "语言",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Russian",
+    "word": "Russian",
+    "meaning": "俄语 / 俄罗斯的 / 俄罗斯人",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Japanese",
+    "word": "Japanese",
+    "meaning": "日语 / 日本的 / 日本人",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:joke",
+    "word": "joke",
+    "meaning": "笑话 / 玩笑",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Italian",
+    "word": "Italian",
+    "meaning": "意大利语 / 意大利的 / 意大利人",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:French",
+    "word": "French",
+    "meaning": "法语 / 法国的 / 法国人",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:hero",
+    "word": "hero",
+    "meaning": "英雄",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:anyone",
+    "word": "anyone",
+    "meaning": "任何人",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:never",
+    "word": "never",
+    "meaning": "从不",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:brave",
+    "word": "brave",
+    "meaning": "勇敢的 / 无畏的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:lead",
+    "word": "lead",
+    "meaning": "引路 / 引领",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:thinker",
+    "word": "thinker",
+    "meaning": "思想家",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:pizza",
+    "word": "pizza",
+    "meaning": "比萨饼",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:character",
+    "word": "character",
+    "meaning": "文字 / 字母 / 符号",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:bow",
+    "word": "bow",
+    "meaning": "鞠躬 / 点头",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:respect",
+    "word": "respect",
+    "meaning": "尊敬 / 敬意",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:sushi",
+    "word": "sushi",
+    "meaning": "寿司",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:university",
+    "word": "university",
+    "meaning": "大学 / 高等学府",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:good",
+    "word": "good",
+    "meaning": "好的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Russia",
+    "word": "Russia",
+    "meaning": "俄罗斯",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Japan",
+    "word": "Japan",
+    "meaning": "日本",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:France",
+    "word": "France",
+    "meaning": "法国",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Monkey King",
+    "word": "Monkey King",
+    "meaning": "孙悟空 / 美猴王",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Spider-Man",
+    "word": "Spider-Man",
+    "meaning": "蜘蛛侠",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Mount Fuji",
+    "word": "Mount Fuji",
+    "meaning": "富士山",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:William Shakespeare",
+    "word": "William Shakespeare",
+    "meaning": "威廉·莎士比亚",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u1:Isaac Newton",
+    "word": "Isaac Newton",
+    "meaning": "艾萨克·牛顿",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:during",
+    "word": "during",
+    "meaning": "在……期间",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:treasure",
+    "word": "treasure",
+    "meaning": "珍宝 / 财富",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:traditional",
+    "word": "traditional",
+    "meaning": "传统的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:folk",
+    "word": "folk",
+    "meaning": "传统民间的 / 民俗的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:take part in",
+    "word": "take part in",
+    "meaning": "参与 / 参加",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:event",
+    "word": "event",
+    "meaning": "重要的事 / 大事",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:wise",
+    "word": "wise",
+    "meaning": "有智慧的 / 英明的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:wisdom",
+    "word": "wisdom",
+    "meaning": "智慧 / 才智",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:friendship",
+    "word": "friendship",
+    "meaning": "友谊 / 友情",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:hope",
+    "word": "hope",
+    "meaning": "希望",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:record",
+    "word": "record",
+    "meaning": "记录 / 记载",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:age",
+    "word": "age",
+    "meaning": "年龄",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:die",
+    "word": "die",
+    "meaning": "死去",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:son",
+    "word": "son",
+    "meaning": "儿子",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:field",
+    "word": "field",
+    "meaning": "田地",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:build",
+    "word": "build",
+    "meaning": "建造",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:simple",
+    "word": "simple",
+    "meaning": "简单的 / 易做的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:tool",
+    "word": "tool",
+    "meaning": "工具 / 用具",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:Mogao Caves",
+    "word": "Mogao Caves",
+    "meaning": "莫高窟",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:Silk Road",
+    "word": "Silk Road",
+    "meaning": "丝绸之路",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:Charlotte's Web",
+    "word": "Charlotte's Web",
+    "meaning": "《夏洛特的网》",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:Emperor of Heaven",
+    "word": "Emperor of Heaven",
+    "meaning": "天帝",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u2:Red Flag Canal",
+    "word": "Red Flag Canal",
+    "meaning": "红旗渠",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:metre",
+    "word": "metre",
+    "meaning": "米 / 公尺",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:kilogramme",
+    "word": "kilogramme",
+    "meaning": "千克 / 公斤",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:write",
+    "word": "write",
+    "meaning": "写字 / 写作",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:letter",
+    "word": "letter",
+    "meaning": "信件",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:arrive",
+    "word": "arrive",
+    "meaning": "到达",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:second",
+    "word": "second",
+    "meaning": "秒 / 第二",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:past",
+    "word": "past",
+    "meaning": "过去的 / 昔日的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:chat",
+    "word": "chat",
+    "meaning": "闲聊 / 闲谈",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:news",
+    "word": "news",
+    "meaning": "消息 / 新闻",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:ride",
+    "word": "ride",
+    "meaning": "骑 / 驾驶",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:communication",
+    "word": "communication",
+    "meaning": "通信 / 交流 / 传递",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:communicate",
+    "word": "communicate",
+    "meaning": "和人交流 / 沟通",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:soldier",
+    "word": "soldier",
+    "meaning": "军人 / 士兵",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:smoke",
+    "word": "smoke",
+    "meaning": "烟",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:message",
+    "word": "message",
+    "meaning": "消息 / 短信",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:Roman",
+    "word": "Roman",
+    "meaning": "古罗马人 / 古罗马的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:pigeon",
+    "word": "pigeon",
+    "meaning": "鸽子",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:quickly",
+    "word": "quickly",
+    "meaning": "迅速地 / 很快地",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:radio",
+    "word": "radio",
+    "meaning": "收音机 / 无线电通信",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:telephone",
+    "word": "telephone",
+    "meaning": "电话",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:easily",
+    "word": "easily",
+    "meaning": "容易地 / 轻易地",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:future",
+    "word": "future",
+    "meaning": "将来 / 未来",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u3:Egypt",
+    "word": "Egypt",
+    "meaning": "埃及",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:invention",
+    "word": "invention",
+    "meaning": "发明 / 创造",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:bulb",
+    "word": "bulb",
+    "meaning": "电灯泡",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:imagine",
+    "word": "imagine",
+    "meaning": "想象 / 设想",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:without",
+    "word": "without",
+    "meaning": "没有 / 缺乏",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:candle",
+    "word": "candle",
+    "meaning": "蜡烛",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:invent",
+    "word": "invent",
+    "meaning": "发明 / 创造",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:machine",
+    "word": "machine",
+    "meaning": "机器",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:inventor",
+    "word": "inventor",
+    "meaning": "发明家",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:compass",
+    "word": "compass",
+    "meaning": "罗盘 / 指南针",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:gunpowder",
+    "word": "gunpowder",
+    "meaning": "火药",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:firework",
+    "word": "firework",
+    "meaning": "烟火 / 烟花",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:print",
+    "word": "print",
+    "meaning": "打印 / 印在纸上",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:model",
+    "word": "model",
+    "meaning": "模型",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:goal",
+    "word": "goal",
+    "meaning": "目标 / 目的",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:imagination",
+    "word": "imagination",
+    "meaning": "想象力",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:airplane",
+    "word": "airplane",
+    "meaning": "飞机",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:dream",
+    "word": "dream",
+    "meaning": "梦想 / 理想 / 梦",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:wood",
+    "word": "wood",
+    "meaning": "木头 / 木材",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:interest",
+    "word": "interest",
+    "meaning": "兴趣 / 关注",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:balloon",
+    "word": "balloon",
+    "meaning": "气球",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:cloth",
+    "word": "cloth",
+    "meaning": "织物 / 布料",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:flight",
+    "word": "flight",
+    "meaning": "飞行 / 飞机 / 飞行物",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:end",
+    "word": "end",
+    "meaning": "终止 / 结尾",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:Montgolfier brothers",
+    "word": "Montgolfier brothers",
+    "meaning": "蒙哥尔费兄弟",
+    "existing": null
+  },
+  {
+    "key": "pep-g6-s2:u4:Wright brothers",
+    "word": "Wright brothers",
+    "meaning": "莱特兄弟",
+    "existing": null
+  }
+]
